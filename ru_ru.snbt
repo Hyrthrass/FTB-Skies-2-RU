@@ -1020,13 +1020,13 @@
 	quest.093FB6A70B7243F9.title: "&fConfiguring Drawers"
 	quest.0951775EB1F7B272.title: "&bAE2 16k Disk Bundle"
 	quest.095A405D88EF0250.quest_desc: [
-		"The &cRedstone Remote&r can be used to wirelessly control redstone devices like levers and buttons."
+		"Пульт &cRedstone Remote&r можно использовать для беспроводного управления устройствами из красного камня, такими как рычаги и кнопки."
 		""
-		"Left click on the device you want to control with the Remote to save the frequency, then right click to toggle it on and off from any distance."
+		"Щелкните левой кнопкой мыши на устройстве, которым вы хотите управлять с помощью пульта, чтобы сохранить частоту, а затем щелкните правой кнопкой мыши, чтобы включать и выключать его с любого расстояния."
 		""
-		"Note: The chunk must be loaded to work, and this does not work across dimensions."
+		"Примечание: для работы чанк должен быть загружен, и он не работает в разных измерениях."
 	]
-	quest.095A405D88EF0250.title: "&fWireless Redstone Control!"
+	quest.095A405D88EF0250.title: "&fБеспроводное управление Редстоуном!"
 	quest.095DE7425166A5A3.title: "&fWarp Scroll"
 	quest.09685FC620B33977.quest_desc: [
 		"&bQuality Multiplier&r: x0.5"
@@ -1112,15 +1112,15 @@
 	quest.09CAF99BCBEB8276.quest_desc: ["Once you make yourself an &aIron Pickaxe&r, you unlock the ability to mine a lot more tougher blocks, like ones composed of &bDiamonds&r, &cRedstone&r, and more!"]
 	quest.09CAF99BCBEB8276.title: "&fThe &aMetal Tool Age"
 	quest.09DE55D4265E6E9D.quest_desc: [
-		"&7&oTired of ugly cables dangling around your base? Tired of every other mod having a different way to hide those cables? Tired of mods that can't even hide your cables? Tire no more!"
+		"&7&oУстали от уродливых кабелей, болтающихся по всей вашей базе? Устали от того, что каждый мод по-своему скрывает эти кабели? Устали от модов, которые даже не могут скрыть ваши кабели? Больше не уставайте!"
 		""
-		"&eCable Facades&r (the mod) provides a one-size-fits-all solution to hiding all of your cables."
+		"&eCable Facades&r (мод) предоставляет универсальное решение для скрытия всех ваших кабелей."
 		""
-		"To set up an empty &bFacade&r, place it in a crafting grid with the block you wish to change it to. This will \"consume\" the block, but this process can be reverted by placing the &bFacade&r back in a crafting grid and extracting the block."
+		"Чтобы установить пустой &bFacade&r, поместите его в сетку крафта с блоком, на который вы хотите его поменять. При этом блок \"расходуется\", но этот процесс можно вернуть, поместив &bFacade&r обратно в сетку и извлекая блок."
 		""
-		"Once set up, simply place the &bFacade&r over your ugly cables and voilà, your cables are gone!"
+		"Просто поместите &bFacade&r на уродливые кабели и вуаля, ваши кабели исчезли!"
 		""
-		"The &aFacade Wrench&r can be used to toggle facade transparency by Sneak + Right-clicking it."
+		"Ключ &aFacade Wrench&r можно использовать для переключения прозрачности фасада, нажав на него Sneak + Right-click."
 	]
 	quest.09DE55D4265E6E9D.title: "&eCable Facades"
 	quest.0A000B0C8F2127A2.quest_desc: [
@@ -3493,15 +3493,15 @@
 	]
 	quest.214D210F200CD11F.title: "&dTime Twister"
 	quest.215E7EB95A7C64A3.quest_desc: [
-		"Every second matters, and that's why you should shove them in the &6Temporal Pouch&r."
+		"Каждая секунда имеет значение, и именно поэтому вы должны засунуть их в &6Темпоральный мешочек&r"
 		""
-		"This pouch stores time, as long as it is in your inventory. This time can be used to increase the ticks of pretty much anything by sneak-using the pouch on it."
+		"Этот мешочек хранит время, пока он находится в вашем инвентаре. Это время можно использовать для увеличения тиков практически всего, что угодно, тайком применяя мешочек на это."
 		""
-		"If something is too slow, use some of your stored time to make it faster!"
+		"Если что-то происходит слишком медленно, используйте часть накопленного времени, чтобы сделать это быстрее!"
 		""
-		"&7&oWho says you can't buy time?"
+		"&7&oКто сказал, что время нельзя купить?"
 	]
-	quest.215E7EB95A7C64A3.quest_subtitle: "Time in a POUCH!"
+	quest.215E7EB95A7C64A3.quest_subtitle: "Время в кошельке!"
 	quest.215E7EB95A7C64A3.title: "&dTemporal Pouch"
 	quest.2160C6D61B76C8FE.quest_desc: [
 		"&eOccultism's&r upgradeable storage system allows you to store your items in a separate dimension of &9The Otherworld&r."
@@ -4037,11 +4037,11 @@
 	]
 	quest.2680E1E74C44F336.title: "&aPart Properties"
 	quest.2682A911828C2D88.quest_desc: [
-		"Have you ever wished you had stairs of a certain block type? Maybe a slab of a block that you don't normally have?"
+		"Вы когда-нибудь хотели, чтобы у вас были лестницы из блоков определенного типа? Может быть, плиты из блока, которого у вас обычно нет?"
 		""
-		"&aFramed Blocks&r allow you to create custom blocks and shapes that uses the texture of almost any other block in the pack! To do this, place down a framed block, and then use the block with the desired texture on the framed block to copy the texture over."
+		"&aFramed Blocks&r позволяет создавать пользовательские блоки и формы, использующие текстуру практически любого другого блока в пакете! Для этого положите блок с рамкой, а затем используйте блок с нужной текстурой на блоке с рамкой, чтобы скопировать текстуру на него."
 		""
-		"There are also some cool features for these blocks, like using &6Glowstone Dust&r on a framed block to make it glow!"
+		"Для этих блоков также есть несколько крутых возможностей, например, используйте &6Glowstone Dust&r на блоке с рамкой, чтобы заставить его светиться!"
 	]
 	quest.2682A911828C2D88.title: "&2Framed Blocks"
 	quest.268CC540E5B605A9.quest_desc: [
@@ -4141,8 +4141,8 @@
 	quest.26ECC091E6B3FA57.title: "&fThe Metal of the &dEnd"
 	quest.26EDB26B9D3431D8.quest_desc: ["Combines &cFermented Ore Meat&r with Sand to get usable ore dust back out."]
 	quest.26EDB26B9D3431D8.title: "&dFluid Sieving Machine"
-	quest.26F18323EB6EFCA0.quest_desc: ["&bSnad&r blocks allow you to create farms of Cactus or Sugarcane easily. These can also be given a redstone signal to increase the growth rate of the crop."]
-	quest.26F18323EB6EFCA0.title: "&fSNAD"
+	quest.26F18323EB6EFCA0.quest_desc: ["Блоки &bSnad&r позволяют легко создавать фермы кактусов или сахарного тростника. На них также можно подавать сигнал красного камня, чтобы увеличить скорость роста урожая"]
+	quest.26F18323EB6EFCA0.title: "&fСнад"
 	quest.270A67B9066C195D.title: "&bMatter Tanks (64k Matter)"
 	quest.2722C0E2E8993658.quest_desc: [
 		"The centerpiece of a fully-completed enchanting setup. "
@@ -4508,11 +4508,11 @@
 	]
 	quest.2B02D9425E19F560.title: "&fНашли баг?"
 	quest.2B0CFC423CE66AAE.quest_desc: [
-		"If you hold a &aHoe&r in either hand and spam crouch, you can speed up the growth of nearby crops!"
+		"Если держать мотыгу в любой руке и спамить приседанием, можно ускорить рост близлежащих культур!"
 		""
-		"While this doesn't work on crops from Mystical Agriculture, it does work on &bBudding Certus Quartz&r!"
+		"Хотя это не работает с культурами из Мистического земледелия, но зато работает &bBudding Certus Quartz&r!"
 	]
-	quest.2B0CFC423CE66AAE.title: "&fTwerk To Work"
+	quest.2B0CFC423CE66AAE.title: "&fПотряс — и пошло!"
 	quest.2B21D8D19E0413AC.quest_desc: ["[\"A \", {\"text\": \"dormant archlich \", \"color\": \"gold\", \"italic\":false}, \"laying deep in a \", {\"text\": \"Nether Dungeon\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2B4392602E94D3D8\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Go to Fargo's Dungeon Quest\"]} }, \". Interact with the 'corpse' to challenge its might.\"]"]
 	quest.2B21D8D19E0413AC.title: "&fKill The &6Dead King"
 	quest.2B2BB685DE246BCC.quest_desc: ["Generates power by consuming Lava (and optionally redstone)."]
@@ -4926,8 +4926,8 @@
 	]
 	quest.2ECEA768C938E76B.title: "&fCrushing Runic Slabs"
 	quest.2EE5352D8E5F715F.title: "&fKill 20 &cSpiders"
-	quest.2EEE782146096F9C.quest_desc: ["Probably one of the best mods out there for builders, the &6Building Gadgets&r mod adds several new gadgets that are a must have to make building better!"]
-	quest.2EEE782146096F9C.title: "&6Building Gadgets"
+	quest.2EEE782146096F9C.quest_desc: ["Вероятно, один из лучших модов для строителей, мод &6Building Gadgets&r добавляет несколько новых гаджетов, которые просто необходимы, чтобы сделать строительство лучше!"]
+	quest.2EEE782146096F9C.title: "&6Инструмент для Строительства"
 	quest.2F057F981B68EB95.quest_desc: ["The &2Simple Fluid Placer&r takes a fluid input and puts it in the world for all to see."]
 	quest.2F057F981B68EB95.quest_subtitle: "Placer? I barely know her :D"
 	quest.2F057F981B68EB95.title: "&fSimple Fluid Placer"
@@ -5136,11 +5136,11 @@
 	quest.3108A2703AD6FA4F.title: "&bFargo's Mob Loot Bundle"
 	quest.3142B7C67CB8EEB3.title: "&aOmega Dragon Egg"
 	quest.3148FCED5BF543B5.quest_desc: [
-		"The &aTool Belt&r is the perfect place to store all of your tools in one place."
+		"&aПояс с Инструментами&r - идеальное место для хранения всех ваших инструментов в одном месте"
 		""
-		"You can quickly access anything inside by holding down &aR&r to bring up a radial menu. These can also be upgraded using &aBelt Pouches&r (in an Anvil), up to 9 total slots."
+		"Вы можете быстро получить доступ ко всему, что находится внутри, удерживая &aR&r, чтобы вызвать радиальное меню. Их также можно усовершенствовать, используя &aПоясную сумку&r (в наковальне), до 9 общих слотов."
 	]
-	quest.3148FCED5BF543B5.title: "&fTool Belt"
+	quest.3148FCED5BF543B5.title: "&fПояс с Инструментами"
 	quest.314E9901D4E89E6F.quest_desc: [
 		"The &cRedstone Module&r allows the &dRouter&r to give off a redstone signal whenever an item is inside of the buffer slot."
 		""
@@ -7045,8 +7045,8 @@
 		"If a &bRitual&r shows gray particles above the &aGolden Sacrificial Bowl&r, then additional requirements need to be fulfilled, such as item use or a &cliving sacrifice&r."
 	]
 	quest.4113BA0BADB486F0.title: "&fMore About &bRituals \\&\\ Pentacles"
-	quest.4119A43052DB5E3E.quest_desc: ["The &eRelics&r mod adds 25 new and unique items, each with the ability to level up and grant unique abilities for those who wish to use them!"]
-	quest.4119A43052DB5E3E.title: "&eRelics"
+	quest.4119A43052DB5E3E.quest_desc: ["Мод &eRelics&r добавляет 25 новых и уникальных предметов, каждый из которых способен повышать уровень и наделять уникальными способностями тех, кто захочет их использовать!"]
+	quest.4119A43052DB5E3E.title: "&eРеликвии"
 	quest.4126A470077923D2.quest_desc: [
 		"The &aCardboard Box&r is a super useful item that can be used to move block entities like chests, spawners, and more!"
 		""
@@ -8056,11 +8056,11 @@
 	quest.4B5C8935A7D7D253.quest_subtitle: "Knocks Back Enemies When Attacked"
 	quest.4B5C8935A7D7D253.title: "&fRing of Expulsion"
 	quest.4B6154D6F9B7C7BF.quest_desc: [
-		"&aCrafting Stations&r can pick up items stored in adjacent inventories and will also hold items in their crafting grids."
+		"Станции &aCrafting Stations&r могут подбирать предметы, хранящиеся в соседних инвентарях, а также хранить предметы в своих ремесленных решетках."
 		""
-		"They function like their &eTinker's Construct&r version, for those who remember that."
+		"Они функционируют как их версия &eTinker's Construct&r, для тех, кто помнит это."
 	]
-	quest.4B6154D6F9B7C7BF.title: "&fCrafting Stations"
+	quest.4B6154D6F9B7C7BF.title: "&fКрафт Станция"
 	quest.4B721BE2E2B87A30.title: "&6Curio Slot Bundle"
 	quest.4B7545530D6055AE.title: "&fGlowstone Dust"
 	quest.4B7FE5A718A97706.quest_desc: ["&dBrass&r will be used quite often to make some of the more powerful blocks and items within &eCreate&r."]
@@ -8708,9 +8708,9 @@
 	]
 	quest.51729919E9A33049.title: "&fBee Genes"
 	quest.51804232265672A9.quest_desc: [
-		"By hitting &bT&r while in your inventory, you can toggle the inventory trash slot. You can use the &aDelete&r key to throw things away instantly, or &aShift+Delete&r to delete several stacks at once."
+		"Нажав &bT&r, находясь в инвентаре, вы можете переключить слот для мусора в инвентаре. Вы можете использовать клавишу &aDelete&r, чтобы мгновенно выбросить вещи, или &aShift+Delete&r, чтобы удалить сразу несколько стопок."
 		""
-		"There is also the &aTrash Bin&r icon in the top left of your inventory that you can use as well. This can also be accessed by using the &a/trashcan&r command."
+		"В левом верхнем углу инвентаря есть иконка &aTrash Bin&r, которую вы также можете использовать. Доступ к ней также можно получить с помощью команды &a/trashcan&r."
 	]
 	quest.51804232265672A9.title: "&fInventory Trashcan!"
 	quest.51A529A9B41B4DB4.quest_desc: ["&aNixie Tubes&r can display numbers and/or letters, depending on how they are set up."]
@@ -9512,11 +9512,11 @@
 	quest.59968CB3EFFC440D.quest_desc: ["When active, the &aLocation Broadcaster&r will show you as an active teleport location to other players who are using an upgraded &6Tempad&r."]
 	quest.59968CB3EFFC440D.title: "&aLocation Broadcaster"
 	quest.59A6D7B544F1AE06.quest_desc: [
-		"Want an easy way to travel to different levels of your base? Make an &dElevator&r!"
+		"Хотите легко перемещаться на разные уровни базы? Сделайте &dлифт&r!"
 		""
-		"These can also copy the texture of another block by using that block directly on the Elevator."
-	]
-	quest.59A6D7B544F1AE06.title: "&fElevators"
+		"Они также могут копировать текстуру другого блока, используя этот блок непосредственно на Лифте."
+	] 
+	quest.59A6D7B544F1AE06.title: "&fЛифт"
 	quest.59AD05C4C9642285.quest_desc: ["The &2Iron Autocrafter&r has 27 &aPattern&r slots and works as fast as a fully upgraded &aAutocrafter&r."]
 	quest.59AD05C4C9642285.title: "&2Iron Autocrafter"
 	quest.59B6301AC3176C90.title: "&5Ender Dragon Prediction"
@@ -10455,20 +10455,21 @@
 	]
 	quest.63D1F9A9465CC28F.title: "Essential Herbs"
 	quest.63D831B65B0532F1.quest_desc: [
-		"If you've ever wanted to build in the sky but hate building a giant tower up to start building, the &dAngel Block&r has the solution."
+		"Если вы когда-нибудь хотели строить в небе, но ненавидите возводить гигантскую башню, чтобы начать строительство, у &dАнгельского Блока&r есть решение."
 		""
-		"This block can be placed in any empty space, without the need for it to connect to the ground!"
-		"You pass right through it though, so don't expect this block to save you from a fall."
+		"Этот блок можно поместить в любое пустое пространство, без необходимости соединять его с землей!"
+		""
+		"Однако вы проходите прямо сквозь него, так что не надейтесь, что этот блок спасет вас от падения"
 	]
-	quest.63D831B65B0532F1.title: "&bPlacing Blocks In The Air"
+	quest.63D831B65B0532F1.title: "&bРазмещение блоков в воздухе"
 	quest.63E02402233F6865.quest_desc: [
-		"The &aBreeding Chamber&r allows you to breed bees all in one block!"
+		"Камера разведения&r позволяет разводить пчел в одном блоке!"
 		""
-		"Place in two &bcaged bees&r that you want to breed together, supply them each with their preferred breeding flower, and then put some empty &bBee Cages&r for the new baby bee to be captured in. You'll also need to supply the chamber with power to function!"
+		"Поместите в камеру двух пчел, которых вы хотите разводить вместе, снабдите каждую из них предпочитаемым цветком для размножения, а затем поставьте несколько пустых клеток для пчел, в которых будут содержаться новые пчелы. Вам также нужно будет обеспечить камеру энергией, чтобы она могла функционировать!"
 		"{@pagebreak}"
-		"Some bees can create several types of bees, so if you are aiming to make one of those specific types, just pick up and place one of the parent bees back in until it shows the bee you are looking for as the outcome!"
+		"Некоторые пчелы могут создавать несколько типов пчел, поэтому, если вы хотите создать один из этих типов, просто возьмите и поместите одну из родительских пчел обратно, пока она не покажет нужную вам пчелу в качестве результата!"
 		""
-		"This machine can also be upgraded with speed upgrades to be faster."
+		"Эта машина также может быть улучшена, чтобы стать быстрее".
 	]
 	quest.63E02402233F6865.quest_subtitle: "The &mBirds&r Bees and The Bees"
 	quest.63E02402233F6865.title: "&aEasy Breeding&f!"
@@ -11331,8 +11332,8 @@
 		"The &aEngineer's Manual&r will be your best friend when showing you how to set up these multiblock machines."
 	]
 	quest.6D06B791EFF6E965.title: "&fWelcome to &eImmersive Engineering&f!"
-	quest.6D165125DC0B8F50.quest_desc: ["&aPacking Tape&r is the best way to move your &eSophisticated chests&r! Right-clicking on storage with wrap it up in tape, then you can break and place it down wherever you need it."]
-	quest.6D165125DC0B8F50.title: "&fPacking Tape"
+	quest.6D165125DC0B8F50.quest_desc: ["&aУпаковачная лента&r - лучший способ перемещения ваших &eSophisticated chests&r! Щелкнув правой кнопкой мыши на хранилище, вы обернете его лентой, а затем сможете сломать и поставить туда, куда вам нужно."]
+	quest.6D165125DC0B8F50.title: "&fУпаковачная Лента"
 	quest.6D28E1AFBB33C43E.quest_desc: ["&dTime Steel&r is used to craft better versions of your existing devices, and a few new gadgets as well."]
 	quest.6D28E1AFBB33C43E.title: "&dTime Steel"
 	quest.6D2B6421B1115667.quest_desc: [
@@ -12395,11 +12396,11 @@
 		"&a/spark tps&r | Показывает TPS сервера. Полезно для проверки, лагает ли твой мир"
 	]
 	quest.7804E97C7772403E.quest_desc: [
-		"Want a portable crafting table? Make a &aCrafting Table on a Stick&r!"
+		"Хотите портативный стол для рукоделия? Сделайте &aCrafting Table on a Stick&r!"
 		""
-		"You can put this in a Curio slot that you can even set a keybind for quick access."
+		"Вы можете поместить его в слот Curio, на который можно даже установить привязку клавиш для быстрого доступа."
 	]
-	quest.7804E97C7772403E.title: "&fOn A STICK!"
+	quest.7804E97C7772403E.title: "&fНа Палочке"
 	quest.7806FFBF4B24CD30.title: "&5Eclipse Alloy Bow"
 	quest.78115154B5DC07B3.quest_desc: ["This block generates power when all other &dMycelial Generators&r are active."]
 	quest.78115154B5DC07B3.title: "&fMycelial Reactor"
@@ -12652,17 +12653,17 @@
 	]
 	quest.7B17CDF1C8FE0CDA.title: "&fSlice'N'Splice"
 	quest.7B20023BE78887DA.quest_desc: [
-		"Sometimes you wish you could pick up items from a little further away, or maybe a lot further away. There's A Mod For That!(tm)"
+		"Иногда хочется подобрать предметы чуть дальше, а может, и намного дальше. Для этого есть мод!"
 		""
-		"Other mods may add their own types, but &eSimple Magnets&r keeps it...simple. Just craft a &aMagnet&r, activate it with right click, and while it's on your person any items in range will be swiftly pulled to your person to get picked up!"
+		"Другие моды могут добавлять свои собственные типы магнитов, но &eПростые Магнит&r делает это... просто. Просто создайте &aМагнит&r, активируйте его правой кнопкой мыши, и пока он находится в вашем инвентаре, все предметы в радиусе действия будут быстро притянуты к вашему лицу, чтобы вы их подобрали!"
 		""
-		"The &dAdvanced Magnet&r has a larger range and a filter menu opened by sneak + right clicking."
+		"У &dAdvanced Magnet&r больший радиус действия и меню фильтров, открывающееся при нажатии правой кнопки мыши."
 		""
-		"Don't want your magnet to pull items in a particular area? Check out the &2Demagnetization Coils&r!"
+		"Не хотите, чтобы магнит притягивал предметы в определенной области? Посмотрите на &2Demagnetization Coils&r!"
 		""
-		"Any items in their range will ignore &aSimple Magnets&r pulling on them."
+		"Любые предметы в зоне их действия будут игнорировать &aМагнит&r, притягиваясь к ним."
 	]
-	quest.7B20023BE78887DA.title: "&aSimple Magnets"
+	quest.7B20023BE78887DA.title: "&aПростые Магниты"
 	quest.7B251A6CE40BAF4B.title: "&6Awakened Supremium &fGear"
 	quest.7B30DD6FB76E75A5.quest_desc: [
 		"Once you have some &bMolten Plastic&r, you can cool it off by pouring it somewhere into the world and waiting. This will cool into &bPlastic Sheets&r! You can also automate this process using &cHeat Frame Cooling&r."
@@ -12711,11 +12712,11 @@
 	quest.7B8076959957E3FA.quest_desc: ["Increases the amount of operations done when the machine finishes an operation."]
 	quest.7B8076959957E3FA.title: "&bProcessing Upgrades"
 	quest.7B954D1F7620FA41.quest_desc: [
-		"If you're tired of switching between the many different mining tools, make yourself a &aPaxel&r!"
+		"Если вы устали переключаться между множеством различных инструментов для добычи, сделайте себе &aМультиИнструмент&r!"
 		""
-		"These are &bAll-In-One Tools&r that do it all."
+		"Это &bAll-In-One Tools&r, которые делают все."
 	]
-	quest.7B954D1F7620FA41.title: "&bAll-In-One Tools"
+	quest.7B954D1F7620FA41.title: "&bВсе в Одном"
 	quest.7BA228FC749BF70A.quest_desc: [
 		"Although the &eCatalyzer&r can increase the speed of the &eSpirit Crucible&r, many more aspects of its function can be tweaked with various &aAugments&r. Some of these effect different Crucible stats, while others will add entirely new mechanics to the system. Consult the &eMalum book&r for details!"
 		""
@@ -12747,11 +12748,11 @@
 	]
 	quest.7C0EFB4A52F2EC61.title: "&fMaking Power With &dPowah&f!"
 	quest.7C0FD2B2589BC66D.quest_desc: [
-		"Build a 3x3x3 of &bFurnaces&r to create the &bJumbo Furnace&r."
+		"Постройте 3x3x3 из &bПечей&r, чтобы создать &bJumbo Furnace&r"
 		""
-		"The &bJumbo Furnace&r allows multiple recipes to be processed at the same time, and it can be upgraded with more &bJumbo Furnaces&r in the bottom-right slot (up to 64), each one representing the amount of items it can smelt at once."
+		"Печь &bJumbo Furnace&r позволяет обрабатывать несколько рецептов одновременно, и ее можно модернизировать, добавив больше печей &bJumbo Furnaces&r в нижний правый слот (до 64), каждая из которых представляет собой количество предметов, которые она может выплавить за один раз."
 	]
-	quest.7C0FD2B2589BC66D.title: "&bBigger \\&\\ Better"
+	quest.7C0FD2B2589BC66D.title: "&bБольше \\&\\ лучше"
 	quest.7C19FA7515BC295F.quest_desc: [
 		"To transfer the next tier of voltage, you'll need &cMV Wires&r."
 		""
