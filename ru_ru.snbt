@@ -1503,745 +1503,745 @@
         ""
         "&bДействующий эффект&r: Урон магией"
     ]
-	quest.0C9AF68E6C9CF4CA.title: "&fDiamond"
-	quest.0C9CD2D8F10D750F.quest_desc: ["&cFlux gates&r are advanced components used to craft late-game machines."]
-	quest.0C9CD2D8F10D750F.title: "&cFlux Gate"
-	quest.0CA75E81F6824B22.quest_desc: [
-		"If you're into magic AND exploration, try out &eIron's Spells 'n Spellbooks&r. This is an amazing magic mod that adds a ton of spells for you to play with."
-		""
-		"Unless you find a &aSpell Book&r as loot, you can start by making a &aFlimsy Journal&r or &aIronbound Tome&r to hold a few spells. We'll even provide a few starter &dSpell Scrolls&r for you!"
-		""
-		"These can be cast as single-use items, or placed in your Spell Book to cast at-will with Mana."
-	]
-	quest.0CA75E81F6824B22.title: "&eIron's Spells 'n Spellbooks"
-	quest.0CD3050976F79358.title: "&fCooked Chicken Cuts"
-	quest.0CE337F7A4B27E89.quest_desc: [
-		"The Forge can be used to craft &6Elemental Prisms&r, but it requires a special relic for the recipe."
-		""
-		"You can find the &dElementarium Relic&r in loot chests, but it also has a crafting recipe!"
-	]
-	quest.0CE337F7A4B27E89.title: "&fThe &dElementarium &fRelic"
-	quest.0CEB6ADF1306381D.quest_desc: [
-		"The &aDisplay Panel&r will be one of your best friends when learning new &6I.D&r systems as it can show show you what is stored within a &aVariable Card&r."
-		""
-		"You can also copy the information on your &aVariable Card&r to your clipboard if you're ever dealing with some very long variables that are not properly displayed on such a small screen."
-	]
-	quest.0CEB6ADF1306381D.title: "&fReading Data"
-	quest.0D0892AD0DB44795.quest_desc: [
-		"&aSpirit Attuned Gems&r can be used in a variety of crafting recipes and &bRituals&r, but is most commonly used to make the &aDivination Rod&r and &dSpirit Attuned Crystals&r."
-		""
-		"To acquire a &aSpirit Attuned Gems&r, simply toss a diamond into &aSpirit Fire&r."
-		""
-		"Note: &dSpirit Attuned Crystals&r are great to use in your Enchanting setups!"
-	]
-	quest.0D0892AD0DB44795.title: "&fSpirit Attuned Gem"
-	quest.0D35D0D33922A201.quest_desc: [
-		"Gateways can be crafted by following the recipe for the gate you wish to challenge found in JEI. Once you craft the gate, right click it on a block to activate it and prepare for battle! Wave after wave of enemy will spew forth for you to dispatch."
-		""
-		"Completing each wave will give you a brief window to prepare for the next wave. Completing all waves will result in the final reward while failing results in losing out on that final reward. "
-		""
-		"You can hold shift and mouse scroll while hovering over a gateway to see what each wave will bring. "
-	]
-	quest.0D35D0D33922A201.title: "&fDefeat 10 &dGateways To Eternity"
-	quest.0D467902BA828734.quest_desc: [
-		"The &cBlood Sigil&r is used inside the &aMixing Cauldron&r to extract blood from entities who jump into it."
-		""
-		"This blood can be used in recipes, or bottled/bucketed out."
-	]
-	quest.0D467902BA828734.title: "&cBlood Sigil"
-	quest.0D4F466475046F7F.quest_desc: [
-		"The &3Crystal Staff&r can be imbued with multiple &dSpells&r and will not break like a regular &3Staff&r."
-		""
-		"The drawback of the &3Crystal Staff&r is that you must be standing on natural blocks like dirt, grass, leaves, or logs to cast spells, otherwise it will tap into the user's own &clife force&r instead of their &2Terra&r."
-		""
-		"Adding up to 4 new &dSpells&r to the &3Crystal Staff&r require a different &bRitual&r. Sneak-right-clicking will cycle between stored &dSpells&r."
-	]
-	quest.0D4F466475046F7F.title: "&3Crystal Staff"
-	quest.0D4FAFE90506EC1D.quest_desc: ["The &dElevator Pulley&r functions similarly to a &3Rope Pulley&r, but can use a &3Redstone Contact&r and &aContraption Controls&r to assign different floors."]
-	quest.0D4FAFE90506EC1D.title: "&dElevator Pulley"
-	quest.0D5FAE315152286C.quest_desc: [
-		"While normally found in chests, the &dArtisan Relic&r can also be crafted!"
-		""
-		"This relic allows the &cClibano&r to combine specific materials together into more powerful alloys."
-	]
-	quest.0D5FAE315152286C.title: "&fThe &dArtisan Relic"
-	quest.0D63039E72A4F69A.title: "&bIce Staff"
-	quest.0D79C07499BF6E95.quest_desc: [
-		"To create &6Awakened Supremium Essence&r, we'll need to create a new altar for the Awakening."
-		""
-		"Just like the &aInfusion Altar&r, place down the &6Awakening Altar&r first to show a guide on where to place the pedestals and vessels. To create the recipe, the altar will also need a redstone signal."
-		""
-		"Items for the recipe will be placed directly on the &6Awakening Pedestals&r. For the &6Essence Vessels&r, you'll need to place in one of each of the &bElemental Essences&r."
-	]
-	quest.0D79C07499BF6E95.title: "&fAwakening Altar"
-	quest.0D7A828100775AE9.title: "&dCreate Advanced Bundle"
-	quest.0D7F5F7A7E41FDF3.quest_desc: [
-		"The &aConfiguration Card&r allows you to save side settings from one machine and apply them to another! This is great for setting up multiple &aInfusers&r."
-		""
-		"Sneak-using the card on a machine will copy the settings onto the card. Using the card on machines after will paste those settings into the machine."
-	]
-	quest.0D7F5F7A7E41FDF3.title: "&fTransferring Machine Settings"
-	quest.0D864FD6A668D8C6.quest_desc: [
-		"&aImporters&r and &aExporters&r are used to input and output resources from your network."
-		""
-		"&aInterfaces&r are able to serve both input and output needs within the same blockspace."
-	]
-	quest.0D864FD6A668D8C6.title: "&aSystem Input \\&\\ Output"
-	quest.0D877E94710B32B1.title: "&fTome of Miners"
-	quest.0D926066D3D83196.quest_desc: ["The &cDjinni Smelter&r functions like all other &bSmelters&r, but process things 50% faster than normal."]
-	quest.0D926066D3D83196.title: "&cDjinni Smelter"
-	quest.0D92EFDB73114B0C.quest_desc: [
-		"With &2Prudentium&r, you now have access to make &bMob Seeds&r."
-		""
-		"Unlike most of the regular seeds, these require a &2Soulium Seed Base&r to create, as well as filled &aSoul Jars&r of the desired mob essence."
-	]
-	quest.0D92EFDB73114B0C.title: "&2Tier 2 &fMob Seeds"
-	quest.0DB5CBE2E76D2FD9.quest_desc: [
-		"If you're looking for a pipe to transfer pretty much anything in or out, the &ePipez&r mod has you covered."
-		""
-		"This mod adds several useful pipes for transferring &bitems&r, &9fluids&r, &cpower&r, or &2gases&r. You can even use the &dUniversal Pipes&r to condense everything down into one pipe."
-		""
-		"To set the pipe to extract, you'll need to sneak-use a &aPipe Wrench&r on the end of the pipe that is connected to the block you want to extract from. Once done, you can upgrade the pipe using a &bPipe Upgrade&r to make it faster, allow for filters, and more!"
-	]
-	quest.0DB5CBE2E76D2FD9.title: "&ePipez"
-	quest.0DF48D4589272952.title: "&fPlay For &a10 Hours"
-	quest.0DF5D2B35FDEE536.quest_desc: [
-		"&eXNET&r is a logistics mod that allows you to set up to 8 channel types (energy, item, fluid, gas, chemicals, and more) on a single connection network."
-		""
-		"Machines and storage devices can then be connected and managed all on a single network, taking up very little space and without the need for messy cable management."
-		""
-		"&7&oCables can also be facaded."
-	]
-	quest.0DF5D2B35FDEE536.title: "&eXnet &fManagement"
-	quest.0E06BDC6265EB7F7.quest_desc: [
-		"&6Controllers&r are used to increase the amount of channels a network has. These aren't necessary to use in the early game, especially since you have 32 channels to work with by default. Networks without a &6Controller&r are considered &bAd-Hocs&r."
-		""
-		"The Controller is considered the routing hub of your ME network. You cannot have 2 separate ME Controllers in the same network, but you can build a massive multiblock Controller if you need the channels."
-		"{@pagebreak}"
-		"A single Controller will provide &b128 Channels&r per face with the 4x settings. This makes it where if you add a controller, you will most likely never have to worry about channels."
-		""
-		"You can find more info and rules for building multiblock controllers in the AE2 Guide."
-	]
-	quest.0E06BDC6265EB7F7.title: "&fAdding More &6Channels"
-	quest.0E0B4F549B42AF63.quest_desc: [
-		"&aReactor Fuel Rods&r are interior components that need to be supplied with &6Uranium&r or &dPlutonium&r &6Pellets&r from &aReactor Fuel Ports&r to generate heat."
-		""
-		"The &aFuel Port&r will be placed on the ceiling of the Reactor. This Port will need &aFuel Rods&r connecting it all the way to the bottom of the Reactor."
-		""
-		"To create &6Uranium Pellets&r, you'll need access to the &6Atomic Forge&r to create &6Uranium Gems&r."
-		""
-		"You can make &6Uranium Dust&r by Centrifuging &cRedstone&r."
-		"{@pagebreak}"
-		"When burning fuel, &aFuel Rods&r will generate neutron pulses that create a specific amount of energy, the more pulses a rod receives, the more energy it also creates. However, if a neighbor component is also a &aFuel Rod&r, it will also hit the neighboring component with a pulse."
-		""
-		"The amount of heat generated is based on the total pulses of a rod (internal + external pulses)."
-		""
-		"A &aSingle Rod&r will generate 1 internal pulse, a &aDouble Rod&r 4, and a &aQuad Rod&r 12. "
-		"{@pagebreak}"
-		"&eNeutron Reflectors&r can be used to send a pulse back to its origin, acting as a similar rod type to its neighbor, increasing its efficiency."
-		""
-		"Each &aFuel Rod&r will consume a fixed amount of fuel from the &bReactor Fuel Ports&r above the stack. Each fuel pellet has a capacity, and each rod will use 1 capacity unit, a double rod uses 2, and a quad rod uses 4."
-	]
-	quest.0E0B4F549B42AF63.title: "&aReactor Rods"
-	quest.0E0BB49B16E88A66.quest_desc: ["&6Treasure Enchantments&r are special enchants that can only be found in loot, or from trading with villagers. That is, unless you have a &3Deepshelf of Arcane Treasures&r..."]
-	quest.0E0BB49B16E88A66.title: "&6Mending!"
-	quest.0E107AC18FCFDB57.quest_desc: [
-		"Now that we have some &aPrimogel Goo&r, we can use it to see how the Goo mechanic works."
-		""
-		"Start by placing down the Primogel Goo somewhere in an open space. From here, you can place &aIron Blocks&r on any of the faces of the Goo, then activating it with either Sugar or Rotten Flesh."
-		""
-		"{image:ftb:textures/quests/direthings/impure_daisy.png width:200 height:100 align:center}"
-		"{@pagebreak}"
-		"You'll notice the Goo slowly starting to spread over the Iron, taking it completely over. Once the process is complete, you'll be left with &aRaw Ferricore Ore&r."
-		""
-		"Mining this ore will give you &aRaw Ferricore&r, which you can smelt down into &aFerricore Ingots&r."
-		""
-		"Note: Fortune does not work on these ores. You will typically get between 3 or 4 raw ores."
-	]
-	quest.0E107AC18FCFDB57.title: "&aGoo Transmutations&r"
-	quest.0E11DBABFFAB0FFA.quest_desc: [
-		"You'll now be able to use the &aQuarry&r to get &dTungsten Ore&r!"
-		""
-		"This can be macerated into dust, then unpacked into tiny dust, then compressed into nuggets, then combined together to finally make &dTungsten Ingots&r!"
-	]
-	quest.0E11DBABFFAB0FFA.title: "&dTungsten Ingot"
-	quest.0E19151FCABF4759.quest_desc: ["Refund your spent skill points in the Athletics tree."]
-	quest.0E19151FCABF4759.title: "&fReset Athletics"
-	quest.0E1F59CE575178C7.quest_desc: ["Upgraded from &6Blazegold&r using a &3Celestigem Template&r"]
-	quest.0E1F59CE575178C7.title: "&dCelestigem Leggings"
-	quest.0E201000BADC9B61.title: "&bRandom Tool Bag"
-	quest.0E610A03BB4007B6.quest_desc: ["Generates power by consuming some Mob Drops."]
-	quest.0E610A03BB4007B6.title: "&fDeath Mycelial Generator"
-	quest.0EA1B56A92D0403F.quest_desc: [
-		"Combining &bAluminum Dust&r, &cChromium Dust&r, and &dStainless Steel Dust&r in a &3Mixer&r will yield &eKanthal Dust&r."
-		""
-		"These need to be smelted into &cKanthal Hot Ingots&r in an &3Electric Blast Furnace&r before being cooled down in a &3Vacuum Freezer&r."
-		""
-		"After some more processing, you'll be able to upgrade your &3Electric Blast Furnace&r with &eKanthal Coils&r, allowing you to forge better quality metals that require much higher temperatures."
-	]
-	quest.0EA1B56A92D0403F.title: "&eKanthal Coils"
-	quest.0EBA58B7FD2AF36D.quest_desc: [
-		"Certain materials are difficult to farm or create, specifically things like &dDragon's Breath&r."
-		""
-		"That's where the &aExtractor&r comes in! This is a simple machine that allows you to create mini structures to extract items from the blocks around them. This can be something as simple as a cobblestone generator using lava and water, or farming snowballs from mini snowmen!"
-		""
-		"Note that some recipes require certain blocks to be placed in a specific direction around the &aExtractor&r."
-		""
-		"&7The easiest way to get pointed dripstone is by hammering dripstone blocks on a cutting board."
-	]
-	quest.0EBA58B7FD2AF36D.title: "&aExtracting Unique Materials&r"
-	quest.0EBEF0B2D2F13C3D.quest_desc: [
-		"&ePossession Rituals&r bind &bSpirits&r into living beings, giving the summoner a degree of control over the possessed being."
-		""
-		"As such, these &bRituals&r are used to obtain rare items without having to venture into dangerous places."
-	]
-	quest.0EBEF0B2D2F13C3D.title: "&ePossession Rituals"
-	quest.0EC122E853F2083C.quest_desc: [
-		"&dAdvanced Pressure Tubes&r can handle up to the danger zone of 20 &bBar&r and 4 times the volume. At 25 &bBar&r they will explode!"
-		""
-		"Before you can connect these to your machines, make sure they can handle the increased volume and pressure, or you can use a &bRegulator&r instead!"
-	]
-	quest.0EC122E853F2083C.title: "&fAdvanced Pressure Tubes"
-	quest.0ED940DF43A934ED.quest_desc: [
-		"The &aVacuum Module&r works exactly like it sounds. This allows the &dRouter&r to collect any item that drops into the world within a certain radius, which can be upgraded by placing &aRange Up Augments&r inside of the module."
-		""
-		"The &aFast Pickup Augment&r can also be placed inside of the module to increase the pickup speed."
-	]
-	quest.0ED940DF43A934ED.title: "&fVacuum Module"
-	quest.0EE0A8941A69703E.quest_desc: [
-		"Once you've gathered a &6Spell Scroll&r, we can inscribe it into our spell tome using the &aInscription Table&r."
-		""
-		"In the interface of the table, you can insert the Spell Tome you wish to inscribe your spell scrolls into. You can then add a Spell Scroll to the empty slot on the left side underneath the tome, then click on the icon above it to inscribe the spell."
-		""
-		"Each spell tome can hold up to a different amount of spells overall, with our starter spellbook only holding 5 or 6. It might be a good idea to upgrade that soon!"
-		"{@pagebreak}"
-		"You can also remove spells inscribed in the tome by selecting the spell in the interface, then clicking on the Spell Scroll on the right side to take it out."
-	]
-	quest.0EE0A8941A69703E.title: "&aInscribing Spells"
-	quest.0EE35D6E57FAD973.quest_desc: ["The most useful item for any enchanting setup; it acts as a storage chest for enchantments, and allows you to pick and choose which "]
-	quest.0EE35D6E57FAD973.quest_subtitle: "Magical Storage!"
-	quest.0EE35D6E57FAD973.title: "&dEnchantment Library"
-	quest.0EFA11536D00E653.quest_desc: [
-		"&2Bio Fuel&r can also be used as a great power source in the early game!"
-		""
-		"To burn the fuel into power, you'll need to make a &aBio-Generator&r. Give it some Bio Fuel and that's it!"
-		""
-		"Note: You can only extract power from it on the front face with the big square on it."
-	]
-	quest.0EFA11536D00E653.title: "&2Bio-Fuel Power"
-	quest.0F184788499005C6.quest_desc: ["The &aStalwart Ring&r applies a banding material's &bAction Effect&r whenever the player blocks with a shield."]
-	quest.0F184788499005C6.title: "&fStalwart Ring"
-	quest.0F22A0A29B961A1C.quest_desc: ["While you get &eEthylbenzene&r from &3Distilling&r &dSteam-Cracked Naphtha&r, you can also combine extra &3Ethylene&r and &aBenzene&r you get to make more &eEthylbenzene&r."]
-	quest.0F22A0A29B961A1C.quest_subtitle: "Ethylene + Benzene"
-	quest.0F22A0A29B961A1C.title: "&eEthylbenzene"
-	quest.0F27F75EC72DBAA9.quest_desc: ["[ \"The \", {\"text\": \"Long-Range Breaker\", \"color\": \"#55FF55\"}, \" works like a normal \", { \"text\": \"Breaker\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1CE0FEAC977DA7FF\" } }, \", but has an 8 block range.\" ]"]
-	quest.0F2DD1EF4E57E523.title: "&6Dimensional Memory Fragment"
-	quest.0F3E0EBEC3DBED48.quest_desc: [
-		"&aPipe Boosters&r are used to massively increase the flow rate of &eItem&r and &bFluid&r Pipes."
-		""
-		"Item Pipes can be increased to extract a stack per tick, while Fluid Pipes will extract up to 40 buckets per tick."
-		""
-		"These must be given power to function!"
-	]
-	quest.0F3E0EBEC3DBED48.title: "&fPipe Booster"
-	quest.0F3EDB9AE592016B.quest_desc: ["Improves energy capacity and energy transfer rate."]
-	quest.0F3EDB9AE592016B.title: "&fMachine Capacitor Addon"
-	quest.0F4ABB66EC22C066.quest_desc: [
-		"If you want to hide your &aConduits&r, you'll need to create some &bConduit Facades&r!"
-		""
-		"These Facades can be changed to the appearance of any other block using the &aPainting Machine&r."
-		""
-		"Inside of the &aPainting Machine&r, blocks inserted into the second input slot will be painted to look like the block placed in the template slot. Blocks placed into the Template slot are not consumed."
-	]
-	quest.0F4ABB66EC22C066.title: "&fHiding Conduits"
-	quest.0F7F7C7ABF851D84.quest_desc: ["The &aChronon Generator&r passively generates &bChronon&r, charging various &eTempad&r devices while in your inventory."]
-	quest.0F7F7C7ABF851D84.title: "&aChronon Generator"
-	quest.0F8037316FBF818A.quest_desc: ["&eButadiene&r is used to make &7Styrene-Butadiene&r."]
-	quest.0F8037316FBF818A.title: "&eButadiene"
-	quest.0F9B3AAA45817C49.quest_desc: [
-		"&bQuality Multiplier&r: x0.75"
-		""
-		"&bBase Effect&r: Knockback Resistance"
-		""
-		"&bPositive Effect&r: None"
-		""
-		"&bImmunity Effect&r: None"
-		""
-		"&bAction Effect&r: None"
-	]
-	quest.0F9B3AAA45817C49.title: "&aBrass Banding"
-	quest.0F9EBFD7BBC355D5.quest_desc: ["The &dEternal Snowball&r allows you to throw an infinite barrage of snowballs."]
-	quest.0F9EBFD7BBC355D5.title: "&dEternal Snowball"
-	quest.0FA7ECE8C07ADAB1.quest_desc: [
-		"The &dWithered Talisman&r increases damage by 25% while the player is affected by wither."
-		""
-		"It is also used to craft the &bForce of Negative&r."
-	]
-	quest.0FA7ECE8C07ADAB1.title: "&dWithered Talisman"
-	quest.0FA81BDE4918C7F7.quest_desc: [
-		"&6Boosted Diesel is the best liquid fuel."
-		""
-		"Note that you will need &2Diethyl Ether&r to make it (found in the petrochem distillation tree directly below)."
-	]
-	quest.0FA81BDE4918C7F7.title: "&6Boosted Diesel"
-	quest.0FC3672189B0854D.quest_desc: [
-		"&cIesnium&r is a rare metal found on some floating islands. The &6Apothecarist&r has some ore on their island as a former denizen of the nether, but a bounty is rumored to lay deep in the &6Nether Castle&r. It can only be mined with the &aInfused Pickaxe&r, or the &cIesnium Pickaxe&r while wearing &aOtherworld Goggles&r."
-		"[\"\", {\"text\": \"Another method could be offering a large amount of silver to...\", \"color\": \"gray\", \"italic\":true}, {\"text\": \"that well\", \"color\": \"dark_purple\", \"italic\":true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"781D7DA09E444B95\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Follow the whispers\"]} }, {\"text\": \"...\", \"color\":\"gray\", \"italic\":true}]"
-		""
-		"&cIesnium&r ore can be processed like most other ores. You can also place it down, which enables it to be mined with any other pickaxe, dropping &aRaw Iesnium&r."
-		""
-		"&cIesnium Ingots&r can be used to craft the &cIesnium Pickaxe&r, &cSpirit Lamps&r, or other powerful items."
-		""
-		"Don't forget that you can use a &aDivination Rod&r to highlight nearby ore blocks!"
-	]
-	quest.0FC3672189B0854D.title: "&cIesnium"
-	quest.0FEE43187F69FA22.quest_desc: [
-		"With the &aDissolution Chamber&r, we can upgrade our machine frames to the next tier!"
-		""
-		"The &bSimple Machine Frame&r is mostly used as a stepping stone for creating the next tier of machine frame."
-		""
-		"It can also be used to make the &aPlant Fertilizer&r."
-	]
-	quest.0FEE43187F69FA22.title: "&bSimple Machine Frame"
-	quest.0FFC6CBB213B30AD.quest_desc: ["Generates power by consuming Milk and Slimey Items."]
-	quest.0FFC6CBB213B30AD.title: "&fSlimey Mycelial Generator"
-	quest.10143533A2437ABE.quest_desc: [
-		"&aSilicon&r is needed for crafting most of the electronic parts in the mod, including creating completed &aProcessors&r. Silicon is crafted by smelting down &bCertus Dust&r."
-		""
-		"You'll want to have a dedicated Inscriber that is automated and pumps out &aPrinted Silicon&r as soon as possible!"
-	]
-	quest.10143533A2437ABE.title: "&aSilicon"
-	quest.101457F50427E14E.quest_desc: [
-		"The &cBlazejet Wand&r is a great tool for getting around."
-		""
-		"This wand comes with the &aAir Burst&r ability. When used, it will boost you forward a few blocks."
-		""
-		"You can even upgrade it to unlock even more abilities!"
-	]
-	quest.101457F50427E14E.title: "&cBlazejet Wand"
-	quest.1036AB9D02AB96F1.quest_desc: [
-		"The &aRefinery&r processes fluids and catalysts to produce a new output."
-		""
-		"This &bHeavy Machine&r is used to make more advanced fluids, like &dAcetaldehyde&r."
-		""
-		"Make sure to check out the &bEngineer's Manual&r to help you build the multiblock!"
-	]
-	quest.1036AB9D02AB96F1.title: "&fRefinery"
-	quest.103DD37E53765969.quest_subtitle: "Transfers Items"
-	quest.103DD37E53765969.title: "&fMI Item Pipes"
-	quest.1044061B20F62F5E.quest_desc: [
-		"The &aEnergizer&r charges items that hold energy."
-		""
-		"The &aEnervator&r discharges items that hold energy and stores it."
-	]
-	quest.1044061B20F62F5E.title: "&aEnergy Management"
-	quest.105D29AEE67BE97B.quest_desc: [
-		"Almost every tool in the mod has an &6Upgrade&r available for them."
-		""
-		"To use these, you'll need to create the Upgrade first, then combine it with the tool or armor piece inside of a &aSmithing Table&r."
-		""
-		"Note: Holding shift on the item will show you what upgrades are available for the tool! Some upgrades can only apply to higher tier items."
-	]
-	quest.105D29AEE67BE97B.title: "&fTool &aUpgrades"
-	quest.1069575C4B5BCE39.quest_desc: [
-		"&eRefined Storage 2&r (&eRS2&r) is a mass storage mod that offers a network-based storage system, allowing for item, fluid, and gas storage on an expandable device network."
-		""
-		"Before crafting your first &aMachine Core&r, which is used for many network components, you'll need to obtain Sky Steel Ingots. Check the attached quest to see how that can be done."
-	]
-	quest.1069575C4B5BCE39.title: "&fWelcome to &eRefined Storage 2"
-	quest.107C26E8BF309BC1.quest_desc: [
-		"Throughout your adventures, you'll run into plenty of &dArcane&r loot."
-		""
-		"The most common item you'll find is &dArcane Essence&r. This can be used to create &dArcane Cloth&r, brew &bMana Potions&r, and more!"
-		"{@pagebreak}"
-		"You'll also find &aBlank Runestones&r, which can be used to craft &2Runestones&r that create some of the most powerful gear in the mod. &aNon-blank Runestones&r can also be found after killing wizards."
-		""
-		"&bMithril&r is a legendary metal not obtainable through usual methods in the void, or at least what passes for usual. Perhaps some magical source could provide it, some sort of gate..."
-	]
-	quest.107C26E8BF309BC1.title: "&fArcane Discoveries"
-	quest.109CB437DFAECDC6.quest_desc: [
-		"The &aAlloy Smelter&r will be your most used machine in &eEnderIO&r as it is an improved version of the &7Primitive Alloy Smelter&r, and can be upgraded with &bCapacitors&r."
-		""
-		"In the &aAlloy Smelter's&r interface, you can configure it in many different ways to improve your automation. It allows for side input/output configuration, redstone configuration, and swapping between three modes:"
-		"{@pagebreak}"
-		"&eAlloy only mode&r: Only allows the Alloy Smelter to create alloys."
-		""
-		"&eFurnace only mode&r: Treats the Alloy Smelter as a furnace"
-		""
-		"&eAlloying and Smelting&r: This mode will do both alloying and smelting, which can be bad when automating as some items will be smelted before turning into alloys."
-	]
-	quest.109CB437DFAECDC6.title: "&aAlloy Smelter"
-	quest.10AB0C0930A5D77D.title: "&5Regeneration"
-	quest.10B7437F3E412D26.quest_desc: [
-		"To create an &6Ancient Bee&r, use a &aNetherite Block&r on a &aDiamond Bee&r to convert it over."
-		""
-		"This bee uses a &aNetherite Block&r as its flower, which is kind of expensive."
-	]
-	quest.10B7437F3E412D26.title: "&7Ancient Bees"
-	quest.10E3AB8F0B7B9F30.quest_desc: [
-		"Throwing a regular &2oak sapling&r into &dSpirit Fire&r will convert it into an &aOak Sapling&r from the &9Otherworld&r."
-		""
-		"When planted and grown, this tree will look like a regular sapling. Those under the effects of the &bThird Eye&r can see what it really is!"
-		""
-		"Chopping this tree down while under the effects of the Third Eye should drop you &aOtherworld Logs&r, which can be used in crafting recipes or rituals."
-		""
-		"Throwing the logs into &dSpirit Fire&r will give you &aOtherworld Ashes&r - a key component used to craft &aWhite Chalk&r."
-	]
-	quest.10E3AB8F0B7B9F30.title: "&9Otherworld &fLog"
-	quest.10E8E47BEFCA8F97.quest_desc: [
-		"&bOsorin's Unbound Calling&r is used to contact a variety of wild &bSpirits&r for many purposes."
-		""
-		"There are a LOT of summons, so you can simply click the checkmark to progress the questline."
-		"{@pagebreak}"
-		"&lTrial Summons:&r"
-		"- Weak Breeze: &cTrial Key&r, &cOminous Bottle&r, and related pottery sherds and music discs"
-		"- Breeze: &dOminous Trial Key&r, and related music discs, banner patterns, and smithing templates"
-		"- Strong Breeze: &6Heavy Core&r, and related pottery sherds, music discs, banner patterns, and smithing templates"
-		""
-		"&lWild Summons:&r"
-		"- Wild Hunt: &dWither Skeleton Skull&r (1)"
-		"- Wild Illagers: &dTotem of Undying&r (1) and related smithing templates"
-		""
-		"&lHorde Summons:&r"
-		"- &aCreeper Horde&r: Vanilla music discs"
-		"- &aDrowned Horde&r: Sniffer Egg, Turtle Egg, and Ocean related pottery sherds"
-		"- &aHusk Horde&r: Desert related smithing templates and pottery sherds"
-		"- &aSilverfish Horde&r: Ruin related smithing templates, music discs, and pottery sherds"
-		"{@pagebreak}"
-		"&lGroup Summons:&r"
-		"- &aCommon Animals&r: Chickens, Cows, Pigs, Sheep, Squid, or Wolves"
-		"- &aRideable Animals&r: Camels, Donkeys, Horses, Llamas, Pigs, Skeleton Horses, Trader Llamas, or Zombie Horses"
-		"- &aSmall Animals&r: Allay, Bats, Bees, Parrots, Cats, Ocelots, Foxes, or Rabbits"
-		"- &aSpecial Animals&r: Armadillos, Goats, Iron Golems, Mooshrooms, Pandas, Polar Bears, or Sniffers"
-		"- &aWater Animals&r: Axolotl, Frogs, Dolphins, Cod, Salmon, Tropical Fishes, Pufferfishes, Squids/Glow Squids, Tadpoles, Turtles, or Snow Golems"
-		"- &aVillager&r: Villagers and Wandering Traders"
-		""
-		"&lItem Summons:&r"
-		"- Bee Nest"
-		"- Bell"
-		"- Budding Amethyst"
-		"- Reinforced Deepslate"
-		"- Smithing Template"
-	]
-	quest.10E8E47BEFCA8F97.quest_subtitle: "Contact Wild Spirits Pentacle"
-	quest.10E8E47BEFCA8F97.title: "&dOsorin's Unbound Calling"
-	quest.10F792474C01A594.quest_desc: [
-		"&eOccultism&r is a magic mod focused around summoning &bSpirits&r and using their powers and skills to your advantage."
-		""
-		"To get started, you'll need to find &aDemon's Dream Seeds&r or more likely buy them from a &eMarket&r."
-		""
-		"The &6Dictionary of Spirits&r is the ultimate guidebook for the mod. It's also needed for certain recipes, and can be used to create &bholograms&r to help you build out &dRituals&r!"
-	]
-	quest.10F792474C01A594.title: "&fWelcome to &eOccultism&f!"
-	quest.1105D1809EB9ADEF.title: "&eInfinitely Compressed Circuit Board"
-	quest.11078789ACAB91CE.quest_desc: [
-		"Once you have Ender Pearls and some Blaze Powder, you can craft &6Eyes of Ender&r."
-		""
-		"These are used to lead you to the End by activating a portal you'll need to make yourself, though there are plenty of other crafting uses for them as well."
-	]
-	quest.11078789ACAB91CE.title: "&6Eyes of Ender"
-	quest.11129E29B22F9898.quest_desc: [
-		"The &3Soul of Colossus&r increases health by 5x, and negates all negative effects. This will clash with the &bForce of Negative&r."
-		""
-		"The items required for the &3Soul of Colossus&r can be found by looting &bFargo's Dungeon&r."
-		""
-		"The &3Soul of Colossus&r can be used to craft the &9Soul of Dimensions&r."
-	]
-	quest.11129E29B22F9898.title: "&3Soul of Colossus"
-	quest.1114D1FD164E514B.quest_desc: [
-		"&eArs Nouveau&r is a mod dedicated to the magic in the world! And of course with magic, you get to cast &dSpells&r!"
-		""
-		"To do that, you'll need to make the &aNovice Spell Book&r. This allows you to create, store, and cast &aTier 1 Spells&r! It also comes with some basic spell knowledge (called &bGlyphs&r) already learned to help you craft your first spell!"
-	]
-	quest.1114D1FD164E514B.title: "&fWelcome To &eArs Nouveau&f!"
-	quest.111F60263C10C60B.title: "&fHamburger"
-	quest.114B4840D2FA1CDF.quest_desc: [
-		"The &aPurification Chamber&r is mostly used to increase the yield from raw ores."
-		""
-		"This machine is the start of the &eTier 2 Ore Processing Chain&r, and requires &bOxygen&r to break down raw ores into &aOre Chunks&r."
-	]
-	quest.114B4840D2FA1CDF.title: "&aPurifying Ores"
-	quest.117131CF7E2FE2DE.quest_desc: [
-		"&bQuality Multiplier&r: x1.0"
-		""
-		"&bBase Effect&r: Experience Gain"
-		""
-		"&bPositive Effect&r: None"
-		""
-		"&bImmunity Effect&r: Glowing"
-		""
-		"&bAction Effect&r: Slowness"
-	]
-	quest.117131CF7E2FE2DE.title: "&fLapis Lazuli"
-	quest.1190DD56F5C5AB46.quest_desc: [
-		"The &aSchematicannon&r and &aSchematic Table&r allow you to copy and paste a structure in the form of a &bBlueprint&r from one location to another."
-		""
-		"Be sure to supply it with gunpowder and items in an attached inventory."
-		""
-		"You can also save structures in your local files, allowing you to use other people's &bBlueprints&r in your world!"
-	]
-	quest.1190DD56F5C5AB46.title: "&aSchematicannon"
-	quest.11C58E38DE9488BE.quest_desc: [
-		"If you're looking to set up an automated &aMob Farm&r, then you should definitely check out &eMob Grinding Utils&r!"
-		""
-		"This mod has a ton of items that can help you set up the perfect mob farm. The &aMob Masher&r will grind up anything it touches, and can be upgraded with &aLooting Upgrades&r to drop even more loot from mob kills."
-		""
-		"Combine this with an &eApotheosis&r spawner, and you'll have the perfect setup!"
-	]
-	quest.11C58E38DE9488BE.title: "&fMob &aGrinding"
-	quest.11D49C5B6C2D4CF0.quest_desc: [
-		"The &7Skeleton Talisman&r increases damage by 50% when shooting arrows from a bow."
-		""
-		"It is also used to craft the &bForce of Rejectors&r."
-	]
-	quest.11D49C5B6C2D4CF0.title: "&7Skeleton Talisman"
-	quest.11E086D8E2C6B642.quest_desc: [
-		"&aAdamant&r is one of the core alloys used throughout &eOritech&r in many recipes and machines."
-		""
-		"It is created by combining Diamonds with Nickel Ingots in the Foundry."
-	]
-	quest.11E086D8E2C6B642.title: "&fAdamant Ingot"
-	quest.11EAC083A8DF86EC.quest_desc: [
-		"Upgrading our &dSpell Book&r allows us to cast &cTier 2 Spells&r, and increases our Mana pool!"
-		""
-		"The first upgrade is the &9Mage's Spell Book&r, which only requires vanilla items. "
-	]
-	quest.11EAC083A8DF86EC.title: "&fUpgrading Our &dSpell Book"
-	quest.11EEAE553AD6C287.quest_desc: [
-		"Wood is a fine enough resource to work with, but stone is where tool use becomes feasible. With enough pebbles collected from a strainer, they can be cobbled together into...well, cobblestone."
-		""
-		"There's got to be a better way than straining water though..."
-	]
-	quest.11EEAE553AD6C287.title: "&fCobb and Stone!"
-	quest.1208CF1D5CA9E590.quest_desc: [
-		"The &aStirling Generator&r is the basic early game power generator for the mod. It burns items like Coal into a very small amount of power."
-		""
-		"&7&oEnderIO machines can also be powered by other energy mods."
-	]
-	quest.1208CF1D5CA9E590.title: "&fGenerating Power"
-	quest.1216065631D8B731.quest_desc: [
-		"&aElectrolyte Algae Serum&r (&aEAS&r) is used to empower items and entities."
-		""
-		"To obtain the &bSea Water&r used to craft &aEAS&r, you can either grab some water with a bucket in an ocean biome, or set up the &aDeep Sea Drain&r."
-		""
-		"This is also a key ingredient used to craft &6FTB Pyramid's&r &dInfinitely Compressed Circuit Board&r."
-	]
-	quest.1216065631D8B731.title: "&aElectrolyte Algae Serum"
-	quest.1237537100194BED.quest_desc: [
-		"As a minor deity of decay, &6nether stars&r dropped by a defeated &dWither&r are an increasingly common demand of worthiness."
-		""
-		"Summoned by placing 3 wither skeleton skulls on top of a \"T\" of 4 soul sand."
-		""
-		""
-		"{image:minecraft:textures/painting/wither.png width:100 height:100 align:center}"
-	]
-	quest.1237537100194BED.title: "&fKill The &dWither"
-	quest.12468F8BF7B80737.quest_desc: [
-		"Exploring every dimension might take a lot of time, especially when you are hunting for very specific structures!"
-		""
-		"Try making the &6Explorer's Compass&r! This compass allows you to search up any structure and will point you in the right direction."
-		""
-		"You can also trade a cartographer for one on the cheap or buy one with coins from a wandering trader!"
-		""
-		"Safe Travels!"
-	]
-	quest.12468F8BF7B80737.title: "&2Adventuring Beyond!"
-	quest.12498DE8D427D40E.quest_desc: ["Nether fortresses spawn heavy amounts of blazes and wither skeletons, providing their key resources as well as a fair amount of loot."]
-	quest.12498DE8D427D40E.title: "&fFind a &cNether Fortress"
-	quest.12506117C5C46682.title: "&bBlack Quartz"
-	quest.125A4B95A5D21B04.title: "&eIF Tier 1 Addon Bundle"
-	quest.12662BF53A31F0B4.quest_desc: [
-		"Want to keep other players away from your stuff? Make an &aExpulsion Pylon&r!"
-		""
-		"This pushes back and prevents players from entering in a set radius around the &ePylon&r. You can also filter out which players are allowed in using &aPlayer Filters&r."
-	]
-	quest.12662BF53A31F0B4.title: "&fExpulsion Pylon"
-	quest.126A21F3BA5A808F.quest_desc: [
-		"&bQuality Multiplier&r: x1.5"
-		""
-		"&bBase Effect&r: Evocation Spell Power"
-	]
-	quest.126A21F3BA5A808F.title: "&fEvocation Rune"
-	quest.126B2AC119617AD0.quest_desc: [
-		"&aOrganic Matter&r gathered from mobs will follow a processing chain to eventually give you &bDNA&r containing a genetic trait you can apply to entities."
-		""
-		"&aOrganic Matter&r will be of the specific mob type you have scraped."
-	]
-	quest.126B2AC119617AD0.title: "&aOrganic Matter"
-	quest.126B4E4814DADCC8.quest_desc: [
-		"The &aLens of the Miner&r can create ores out of blocks in sight."
-		""
-		"When the laser hits a block of stone or deepslate, it will convert it into overworld ores, and when it hits a block of netherrack it will be converted into nether ores."
-	]
-	quest.126B4E4814DADCC8.title: "&aLens of the Miner"
-	quest.1277CECF9C633D8B.quest_desc: [
-		"Now that we can process fluids in our Centrifuge, we can now make &aRaw Biopolymer&r!"
-		""
-		"This can be used to make several important items, including &bPlastic Sheets&r and &6Biosteel&r."
-	]
-	quest.1277CECF9C633D8B.title: "&6Biopolymer"
-	quest.12843F69BB8EEFCE.quest_desc: ["&3Display Links&r can be used to visualize dynamic information about your network or about a block."]
-	quest.12843F69BB8EEFCE.title: "&3Display Link"
-	quest.12B8D538B54497E2.quest_desc: [
-		"After you've crafted a &aForge Hammer&r, you'll want to make some &bIron Plates&r as well as some &bCopper Components&r which will be used in a multitude of crafting recipes."
-		""
-		"You can also use these to make one of the best mining tools in the early game!"
-	]
-	quest.12B8D538B54497E2.title: "&fForge Ahead"
-	quest.12C1810996C15294.title: "&fIron Essence"
-	quest.12CB62610FEAADA0.quest_desc: ["Generates power by consuming Dragon's Breath."]
-	quest.12CB62610FEAADA0.title: "&fHalitosis Mycelial Generator"
-	quest.131199313AE3F5E9.quest_desc: ["The &aEnergized Smelter&r is essentially a powered furnace that can be upgraded!"]
-	quest.131199313AE3F5E9.title: "&fOur First &aPowered Furnace"
-	quest.1316B86CF011B016.quest_desc: [
-		"The &6Iesnium Anvil&r is a &6Marid&r infusion improving regular anvil functions"
-		""
-		"- It is &3Unbreakable&r."
-		"- It can exceed the maximum level of enchantments by 1."
-		"- &6Marid&r will pay half of the showed level cost."
-		"- The cost increase of working with the same item is reduced."
-		"- The maximum cost limit is increased."
-	]
-	quest.1316B86CF011B016.title: "&6Iesnium Anvil"
-	quest.132D9163A97ED955.quest_desc: [
-		"Armors can be upgraded by adding a &aLining&r to them. "
-		""
-		"Using &2Leather&r as a lining can be a decent upgrade to add &bFlexible V&r to your armor!"
-	]
-	quest.132D9163A97ED955.title: "&fLining Blueprint"
-	quest.13448A305B57016A.quest_desc: [
-		"If you're looking to upgrade your gear, &aInferium Gear&r is better than Diamond! There are also great new tools like &eScythes&r and &bSickles&r that provide an AoE harvesting effect!"
-		""
-		"These tools can also be upgrading using &dAugments&r in a Tinkering Table."
-	]
-	quest.1385135551DA36AB.quest_desc: [
-		"&bCircle magic&r is performed by using &aGolden Chalk&r to place a central glyph as the 'heart' of the circle, and using &aRitual Chalk&r to form circles around it."
-		"To perform a rite or ritual, drop all relevant items onto the center glyph and activate it with right click. Some of these may require &6altar power&r, or a charged Attuned Stone to ignore the power requirement."
-		""
-		"See the \"&5Attuned Stone Charged&r\" quest for details on that."
-		"{@pagebreak}"
-		"Most rituals only require a single &bcircle&r, formed in a 7x7 ring (one diagonal) around the heart."
-		"&7A representation of this is shown below."
-		""
-		"A few advanced rituals may require a second &bcircle&r with a gap from the first, forming a 11x11 ring around the heart (two diagonal)."
-		"&7A representation of this is not shown below."
-		""
-		""
-		"    XXX"
-		"  X     X"
-		"X         X"
-		"X    &6X&r    X"
-		"X         X"
-		"  X     X"
-		"    XXX"
-		""
-		"{@pagebreak}"
-		"If you would like to pick up a circle and move it somewhere else, you can do so with a rite."
-		""
-		"A &aCircle Talisman&r, redstone dust, and some &6altar power&r will condense the circle into the Talisman. Without an altar, a Talisman, glowstone dust, and an Attuned Stone Charged can be used."
-		""
-		"To put this circle back down, simply right click the inscribed Talisman on the ground in a properly cleared area."
-		""
-		""
-		"...what's the &aBroom&r for? Neatly sweeping up misplaced chalk, obviously. No other reason..."
-	]
-	quest.1385135551DA36AB.title: "Circle Magic"
-	quest.138CB008CE4C838B.quest_desc: [
-		"Ars Nouveau allows you to perform &drituals&r to summon mobs, build floating islands, and much more!"
-		""
-		"To make your first Ritual, you'll need to craft a &3Ritual Brazier&r and one of the many different types of &dRitual Tablets&r that you'd like to perform. Place the Brazier down and then use the tablet for the ritual you'd like, then right click again with an empty hand to perform the ritual."
-		""
-		"Most rituals will need &dSource&r to activate, so make sure to have a jar nearby!"
-		"{@pagebreak}"
-		"Rituals can also be &aaugmented&r using certain items to empower them. This is done by first using the &3Ritual Tablet&r on it first, then by using the items on the Brazier one at a time to fulfill the augment needs. Once finished, you can right click with an empty hand to activate the ritual."
-	]
-	quest.138CB008CE4C838B.title: "&dRituals"
-	quest.13A336971A4AD188.quest_desc: [
-		"The &3Soul of Supersonic&r increases running and walking speed by 1.75x, and flight speed by 2.5x."
-		""
-		"The items required for the &3Soul of Supersonic&r can be found by killing &bFargo's Dungeon&r mobs."
-		""
-		"Mob drops are affected by looting."
-		""
-		"The &3Soul of Supersonic&r can be used to craft the &9Soul of Dimensions&r."
-	]
-	quest.13A336971A4AD188.title: "&3Soul of Supersonic"
-	quest.13AEA5AF8009472C.quest_desc: ["The &aSpeed Upgrade&r increases the overall speed of the machine at the cost of increased power consumption."]
-	quest.13AEA5AF8009472C.title: "&fSpeed Upgrade"
-	quest.13C8B2286F5184C7.quest_desc: ["When charged, right-clicking the &3Teleport Staff&r will teleport you in the direction you are looking, up to 100 blocks away."]
-	quest.13C8B2286F5184C7.title: "&3Teleport Staff"
-	quest.13CBFF5DAD6A1FA1.title: "&fBlaze Powder"
-	quest.13D6C551C8DBC124.quest_desc: [
-		"We can't learn more about magic without having our own special magical desk, made from magical wood found mostly in a magical forest."
-		""
-		"Isn't that just &omagical&r?"
-		""
-		"To create the workstation, you'll need to harvest an &2Archwood Tree&r. These may be rarely found on void islands dense with magical energies, mutated with &eMutandis&r, or simply bought from a &eMarket&r."
-	]
-	quest.13D6C551C8DBC124.title: "&aMagical Trees..."
-	quest.13DFA7B0975971B7.quest_desc: [
-		"&6Oritech&r offers two methods for applying enchantments. All &6Oritech&r equipment and tools are enchantable."
-		""
-		"The &dStabilized Enchanter&r allows for 'normal' enchantments to be applied to equipment. Having a nearby &dArcane Catalyst&r filled with &9Souls&r allows the application of an enchantment from an enchanted book to any item, at any level."
-		""
-		"{@pagebreak}"
-		"When inserting an item into the &dStabilized Enchanter&r, you can select the enchantment to be applied from the GUI. The enchantment is stored for subsequent items but can also be changed."
-		""
-		"Both energy and &9Souls&r are required to operate. The &dStabilized Enchanter&r doesn't collect souls by itself, but instead uses &9Souls&r stored in nearby &dArcane Catalysts&r. The number of required &dArcane Catalysts&r depends on the level of the enchant."
-		""
-		"Only &dArcane Catalysts&r with stored &9Souls&r are counted."
-		""
-		"{@pagebreak}"
-		"The &dArcane Catalysts&r may also enchant items using books. The book used must be at the maximum level of the enchantment. It can apply any enchantment to any item."
-		""
-		"If a tool is already at the maximum or higher level of the applied enchantment, it will be &6Hyper Enchanted&r. This significantly increases the enchantment cost but allows you to exceed the default max level."
-		""
-		"By default, an &dArcane Catalyst&r can store up to 50 &9Souls&r. However, &6Hyper Enchanting&r requires more than that."
-		""
-		"You can stabilize the &dArcane Catalysts&r using &aEnderic Lasers&r, each one increasing the number of &9Souls&r that can be stored."
-		""
-		"&c&lWARNING!&r Loss of stabilization while storing &9Souls&r may have &ccatastrophic&r consequences."
-	]
-	quest.13DFA7B0975971B7.title: "&dOritech Enchanting"
-	quest.13EC7C64DFBD1556.quest_desc: [
-		"While you can use any sort of power from other mods, &eOritech&r has plenty of options for generating power."
-		""
-		"The &aBasic Generator&r is the starter generator, and burns any type of furnace fuel to generate a small amount of power."
-		""
-		"You can transfer the power out using &cEnergy Pipes&r from the mod, or any other type of energy cable works as well."
-	]
-	quest.13EC7C64DFBD1556.title: "&eOritech &cPower&f!"
-	quest.13FD704C45145E23.quest_desc: [
-		"The &aFluid Extractor&r is the first machine you'll want to make in the mod."
-		""
-		"These machines will pull &7Latex&r from any Wood Log placed in front of it. You'll need a lot of &7Latex&r, so it's good to make a few of these!"
-		""
-		"These machines don't require power, but work &b3x faster&r when powered."
-		""
-		"Most logs will give an average amount, but &aAcacia logs&r and &aMangrove logs&r will give the most!"
-	]
-	quest.13FD704C45145E23.title: "&fExtracting &7Latex"
-	quest.13FE28AF74A357CD.quest_desc: ["&dBrass Funnels&r and &dBrass Tunnels&r function just like their andesite counterparts, but allow for item quantity configuration and item filtering."]
-	quest.13FE28AF74A357CD.title: "&dUpgraded Item Handling"
-	quest.1403ABF77D987200.quest_desc: [
-		"The &aSqueezer&r is used to extract items from certain blocks, like &bMenril&r from Menril Logs or Menril Planks."
-		""
-		"This is done by placing in the item you'd like to squeeze by using the item directly on the Squeezer, then jumping on the center of the top face until something pops out!"
-		""
-		"To reset the Squeezer, you will need to give it a redstone signal with something like a button or pressure plate."
-		""
-		"The Squeezer is a vital machine for getting the most &bCrystallized Menril Chunks&r from Menril trees."
-		""
-		"This machine can also be used to get more of a return for certain items, like getting more &6Blaze Powder&r per &cBlaze Rod&r."
-	]
-	quest.1403ABF77D987200.title: "&fExtracting &bMenril"
-	quest.141CE17C25D2A53A.quest_desc: [
-		"To make any of the upgrades for your backpack, you'll first need to craft an &aUpgrade Base&r."
-		""
-		"There are a ton of useful upgrades you can make, like &aStack Upgrades&r to increase the slot stack limit for storing tons of items, or the &aFeeding Upgrade&r that can automatically feed you when you are hungry!"
-		""
-		"Make sure to check them all out!"
-	]
+    quest.0C9AF68E6C9CF4CA.title: "&fАлмаз"
+    quest.0C9CD2D8F10D750F.quest_desc: ["&cФлюсовые вентили&r — продвинутые компоненты, используемые для создания машин поздней стадии."]
+    quest.0C9CD2D8F10D750F.title: "&cФлюсовый вентиль"
+    quest.0CA75E81F6824B22.quest_desc: [
+        "Если ты любишь магию И исследования, попробуй &eЗаклинания и Книги заклинаний от Iron'rа. Это потрясающий магический мод, добавляющий кучу заклинаний, с которыми можно поиграть."
+        ""
+        "Если ты не найдёшь &aКнигу заклинаний&r как лут, начни с создания &aХрупкого дневника&r или &aТома в железной оправе&r, чтобы хранить несколько заклинаний. Мы даже дадим тебе пару стартовых &dСвитков заклинаний&r!"
+        ""
+        "Их можно использовать как одноразовые предметы или поместить в книгу заклинаний, чтобы колдовать их на постоянной основе с помощью Маны."
+    ]
+    quest.0CA75E81F6824B22.title: "&eЗаклинания и книги Iron'а"
+    quest.0CD3050976F79358.title: "&fЖареные кусочки курицы"
+    quest.0CE337F7A4B27E89.quest_desc: [
+        "Кузню можно использовать для создания &6Элементальных призм&r, но для рецепта нужен особый реликвийный предмет."
+        ""
+        "Вы можете найти &dРеликвию Элементариума&r в сундуках с лутом, но у неё также есть рецепт крафта!"
+    ]
+    quest.0CE337F7A4B27E89.title: "&fРеликвия &dЭлементариума"
+    quest.0CEB6ADF1306381D.quest_desc: [
+        "&aПанель отображения&r станет вашим лучшим помощником при изучении новых &6I.D&r систем, так как она покажет, что хранится внутри &aКарты переменной&r."
+        ""
+        "Вы также можете скопировать информацию с вашей &aКарты переменной&r в буфер обмена, если работаете с очень длинными переменными, которые плохо отображаются на маленьком экране."
+    ]
+    quest.0CEB6ADF1306381D.title: "&fЧтение данных"
+    quest.0D0892AD0DB44795.quest_desc: [
+        "&aКристаллы духа&r можно использовать во множестве рецептов и &bРитуалах&r, но чаще всего — для создания &aЖезла пророчеств&r и &dКристаллов духа&r."
+        ""
+        "Чтобы получить &aКристалл духа&r, просто бросьте алмаз в &aОгонь духа&r."
+        ""
+        "Примечание: &dКристаллы духа&r отлично подходят для использования в ваших зачаровательных установках!"
+    ]
+    quest.0D0892AD0DB44795.title: "&fКристалл духа"
+    quest.0D35D0D33922A201.quest_desc: [
+        "Врата можно создать, следуя рецепту нужных врат из JEI. Как только вы их сделаете, щёлкните по блоку ПКМ, чтобы активировать врата и подготовиться к бою! Волна за волной враги будут выпрыгивать оттуда — уничтожайте их!"
+        ""
+        "После прохождения каждой волны открывается короткая пауза для подготовки к следующей. Пройдя все волны, вы получите финальную награду, а если провалить — она останется недоступной."
+        ""
+        "Зажав Shift и прокручивая колёсико мыши над вратами, вы можете увидеть, какие волны вас ждут."
+    ]
+    quest.0D35D0D33922A201.title: "&fПобедить 10 &dВрат Вечности"
+    quest.0D467902BA828734.quest_desc: [
+        "&cСигил Крови&r используется внутри &aКотла смешивания&r, чтобы извлечь кровь из существ, которые прыгают в него."
+        ""
+        "Эту кровь можно использовать в рецептах или разливать по бутылкам/ведрам."
+    ]
+    quest.0D467902BA828734.title: "&cСигил Крови"
+    quest.0D4F466475046F7F.quest_desc: [
+        "&3Кристальный жезл&r может быть заряжен несколькими &dЗаклинаниями&r и не ломается, как обычный &3Жезл&r."
+        ""
+        "Недостаток &3Кристального жезла&r в том, что для использования заклинаний нужно стоять на естественных блоках — земле, траве, листьях или бревне. Иначе он начнёт черпать силу из &cжизненной энергии&r самого игрока вместо его &2Terra&r."
+        ""
+        "Добавление до 4 новых &dЗаклинаний&r в &3Кристальный жезл&r требует выполнения разных &bРитуалов&r. Зажав Shift и щёлкая ПКМ, вы переключаетесь между сохранёнными &dЗаклинаниями&r."
+    ]
+    quest.0D4F466475046F7F.title: "&3Кристальный жезл"
+    quest.0D4FAFE90506EC1D.quest_desc: ["&dЛифтовый шкив&r работает так же, как и &3Шкив с верёвкой&r, но может использовать &3Контакт красного камня&r и &aУправление механизмами&r, чтобы назначать разные этажи."]
+    quest.0D4FAFE90506EC1D.title: "&dЛифтовый шкив"
+    quest.0D5FAE315152286C.quest_desc: [
+        "Хотя &dРеликвия ремесленника&r обычно находится в сундуках, её также можно скрафтить!"
+        ""
+        "Эта реликвия позволяет &cКлибано&r объединять определённые материалы в более мощные сплавы."
+    ]
+    quest.0D5FAE315152286C.title: "&fРеликвия &dремесленника"
+    quest.0D63039E72A4F69A.title: "&bЖезл Льда"
+    quest.0D79C07499BF6E95.quest_desc: [
+        "Чтобы создать &6Пробуждённую эссенцию Supremium&r, нам понадобится построить новый алтарь для Пробуждения."
+        ""
+        "Как и с &aАлтарём инфузии&r, сначала установите &6Алтарь пробуждения&r, чтобы получить подсказку, где ставить подставки и сосуды. Для активации рецепта алтарю потребуется сигнал красного камня."
+        ""
+        "Предметы для рецепта кладутся прямо на &6Подставки пробуждения&r. А в &6Сосуды эссенции&r нужно положить по одному из каждого &bЭлементальной эссенции&r."
+    ]
+    quest.0D79C07499BF6E95.title: "&fАлтарь пробуждения"
+    quest.0D7A828100775AE9.title: "&dСоздать продвинутый набор"
+    quest.0D7F5F7A7E41FDF3.quest_desc: [
+        "&aКарта настроек&r позволяет сохранить параметры одной машины и применить их к другой! Это удобно при настройке нескольких &aИнфьюзеров&r."
+        ""
+        "Зажмите Shift и используйте карту на машине — настройки скопируются. После этого вы можете применить их к другим машинам."
+    ]
+    quest.0D7F5F7A7E41FDF3.title: "&fПеренос настроек машин"
+    quest.0D864FD6A668D8C6.quest_desc: [
+        "&aИмпортёры&r и &aЭкспортёры&r используются для ввода и вывода ресурсов из вашей сети."
+        ""
+        "&aИнтерфейсы&r могут выполнять обе функции в одном блоке."
+    ]
+    quest.0D864FD6A668D8C6.title: "&aВвод \\&\\ Вывод системы"
+    quest.0D877E94710B32B1.title: "&fФолиант шахтёра"
+    quest.0D926066D3D83196.quest_desc: ["&cПлавильная печь Джи́нни&r работает как другие &bПлавильные печи&r, но обрабатывает ресурсы на 50% быстрее."]
+    quest.0D926066D3D83196.title: "&cПлавильная печь Джи́нни"
+    quest.0D92EFDB73114B0C.quest_desc: [
+        "С &2Prudentium&r вы теперь можете создавать &bСемена мобов&r."
+        ""
+        "В отличие от большинства обычных семян, для создания этих требуется &2Основа семени души&r и заполненные &aСосуды души&r с нужным типом эссенции моба."
+    ]
+    quest.0D92EFDB73114B0C.title: "&2Уровень 2 &fСемян мобов"
+    quest.0DB5CBE2E76D2FD9.quest_desc: [
+        "Если вам нужна трубка для передачи почти всего и вся — &ePipez&r к вашим услугам."
+        ""
+        "Этот мод добавляет несколько полезных трубок для передачи &bПредметов&r, &9Жидкостей&r, &cЭнергии&r или &2Газов&r. Вы даже можете использовать &dУниверсальные трубы&r, чтобы всё это объединить в одну."
+        ""
+        "Чтобы труба начинала забирать предметы, зажмите Shift и используйте &aГаечный ключ для труб&r на конце трубы, подключённом к источнику. После этого вы можете улучшать трубу с помощью &bУлучшений труб&r, чтобы увеличить скорость, добавить фильтры и т. д."
+    ]
+    quest.0DB5CBE2E76D2FD9.title: "&ePipez"
+    quest.0DF48D4589272952.title: "&fИграть &a10 часов"
+    quest.0DF5D2B35FDEE536.quest_desc: [
+        "&eXNET&r — мод логистики, который позволяет использовать до 8 типов каналов (энергия, предметы, жидкости, газы, химикаты и т. д.) в одной сети."
+        ""
+        "Машины и хранилища можно подключать и управлять ими через единую сеть, экономя пространство и избегая беспорядка с кабелями."
+        ""
+        "&7&oКабели также можно замаскировать под блоки окружения."
+    ]
+    quest.0DF5D2B35FDEE536.title: "&eXnet &fУправление"
+    quest.0E06BDC6265EB7F7.quest_desc: [
+        "&6Контроллеры&r увеличивают количество каналов в сети. Они не обязательны на ранних этапах, особенно учитывая, что по умолчанию у вас уже есть 32 канала. Сети без &6Контроллера&r считаются &bAd-Hoc сетями&r."
+        ""
+        "Контроллер считается центральным маршрутизатором вашей ME-сети. Нельзя иметь 2 контроллера AE в одной сети, но вы можете собрать большой мультиблоковый контроллер, если нужно больше каналов."
+        "{@pagebreak}"
+        "Один контроллер даёт &b128 каналов&r на каждую сторону при использовании режима 4x. Таким образом, добавив контроллер, вы вряд ли когда-либо снова столкнётесь с нехваткой каналов."
+        ""
+        "Больше информации о сборке мультиблочных контроллеров можно найти в руководстве AE2."
+    ]
+    quest.0E06BDC6265EB7F7.title: "&fДобавление каналов"
+    quest.0E0B4F549B42AF63.quest_desc: [
+        "&aТопливные стержни реактора&r — это внутренние компоненты, которым требуется подача &6Урановых&r или &dПлутониевых&r &6Гранул&r через &aПорты топлива&r для генерации тепла."
+        ""
+        "&aПорт топлива&r устанавливается на потолке реактора. Он должен быть соединён &aТопливными стержнями&r от самого верха до дна реактора."
+        ""
+        "Чтобы создать &6Гранулы урана&r, вам понадобится &6Атомный кузнец&r для создания &6Урановых кристаллов&r."
+        ""
+        "&6Пыль урана&r можно получить, перерабатывая &cРедстоун&r в центрифуге."
+        "{@pagebreak}"
+        "При сжигании топлива &aТопливные стержни&r производят нейтронные импульсы, создающие определённое количество энергии. Чем больше импульсов получает стержень, тем больше энергии он производит. Если соседний блок тоже &aТопливный стержень&r — он передаст ему импульс."
+        ""
+        "Количество выделяемого тепла зависит от общего количества импульсов одного стержня (внутренние + внешние)."
+        ""
+        "&aОдиночный стержень&r даёт 1 импульс, &aДвойной&r — 4, а &aЧетверной&r — 12."
+        "{@pagebreak}"
+        "&eНейтронные отражатели&r могут возвращать импульс обратно, действуя как дополнительный стержень рядом, повышая его эффективность."
+        ""
+        "Каждый &aТопливный стержень&r потребляет определённое количество топлива из &bПортов топлива&r сверху. Каждая гранула имеет запас прочности: один стержень использует 1 единицу, двойной — 2, четверной — 4."
+    ]
+    quest.0E0B4F549B42AF63.title: "&aСтержни реактора"
+    quest.0E0BB49B16E88A66.quest_desc: ["&6Энчанты-сокровища&r — особые зачарования, которые обычно находятся только в луте или у жителей. Но если у вас есть &3Сундук с древними артефактами&r, это можно обойти."]
+    quest.0E0BB49B16E88A66.title: "&6Починка!"
+    quest.0E107AC18FCFDB57.quest_desc: [
+        "Теперь, когда у нас есть немного &aПримогеля&r, мы можем использовать его, чтобы разобраться, как работает механика геля."
+        ""
+        "Начните с того, что поставьте &aПримогель&r где-нибудь на открытой местности. Затем вы можете ставить &aБлоки железа&r на любую сторону геля и активировать его сахаром или гнилым мясом."
+        ""
+        "{image:ftb:textures/quests/direthings/impure_daisy.png width:200 height:100 align:center}"
+        "{@pagebreak}"
+        "Вы увидите, как гель начинает медленно распространяться по железу, полностью его поглощая. После завершения процесса останется &aНеочищенный феррокор&r."
+        ""
+        "Добыча этой руды даст вам &aСырье феррокора&r, которое можно переплавить в &aСлитки феррокора&r."
+        ""
+        "Примечание: Энчант Fortune не работает на этих рудах. Обычно вы получаете от 3 до 4 штук сырья."
+    ]
+    quest.0E107AC18FCFDB57.title: "&aТрансмутация геля"
+    quest.0E11DBABFFAB0FFA.quest_desc: [
+        "Теперь вы можете использовать &aКарьер&r для добычи &dTungsten Ore&r!"
+        ""
+        "Его можно измельчить в пыль, затем превратить в мелкую пыль, спрессовать в самородки, а потом объединить в полноценные &dTungsten Ingots&r!"
+    ]
+    quest.0E11DBABFFAB0FFA.title: "&dTungsten Ingot"
+    quest.0E19151FCABF4759.quest_desc: ["Верните потраченные очки навыков в дереве &aАтлетика&r."]
+    quest.0E19151FCABF4759.title: "&fСброс дерева &aАтлетика"
+    quest.0E1F59CE575178C7.quest_desc: ["Обновляется из &6Blazegold&r с использованием &3Шаблона Celestigem&r"]
+    quest.0E1F59CE575178C7.title: "&dНожные доспехи из Celestigem"
+    quest.0E201000BADC9B61.title: "&bМешок со случайным инструментом"
+    quest.0E610A03BB4007B6.quest_desc: ["Производит энергию, потребляя некоторые трофеи мобов."]
+    quest.0E610A03BB4007B6.title: "&fГенератор из плоти смерти"
+    quest.0EA1B56A92D0403F.quest_desc: [
+        "Смешивание &bПыли алюминия&r, &cПыли хрома&r и &dПыли нержавеющей стали&r в &3Миксере&r даёт &eПыль канталя&r."
+        ""
+        "Из неё нужно сделать &cГорячие слитки канталя&r в &3Электродуговой печи&r, после чего охладить в &3Вакуумном охладителе&r."
+        ""
+        "После дальнейшей обработки вы сможете улучшить вашу &3Электродуговую печь&r с помощью &eКатушек канталя&r, чтобы создавать металлы более высокого качества при повышенных температурах."
+    ]
+    quest.0EA1B56A92D0403F.title: "&eКатушки канталя"
+    quest.0EBA58B7FD2AF36D.quest_desc: [
+        "Некоторые материалы трудно добыть или создать, например &dДыхание дракона&r."
+        ""
+        "На помощь приходит &aЭкстрактор&r! Это простая машина, которая позволяет строить мини-структуры для добычи предметов из окружающих блоков. Например, можно сделать генератор камня с лавой и водой или собирать снежки с мини-снеговиков!"
+        ""
+        "Обратите внимание: некоторые рецепты требуют, чтобы определённые блоки были установлены в нужном направлении вокруг &aЭкстрактора&r."
+        ""
+        "&7Самый простой способ получить направленную сталактитовую скалу — это ударить блок сталактита по разделочной доске."
+    ]
+    quest.0EBA58B7FD2AF36D.title: "&aДобыча уникальных материалов"
+    quest.0EBEF0B2D2F13C3D.quest_desc: [
+        "&eРитуалы одержания&r связывают &bДухов&r с живыми существами, позволяя summoner'у контролировать их в определённой степени."
+        ""
+        "Таким образом, такие &bРитуалы&r используются для получения редких предметов без необходимости отправляться в опасные места."
+    ]
+    quest.0EBEF0B2D2F13C3D.title: "&eРитуалы одержания"
+    quest.0EC122E853F2083C.quest_desc: [
+        "&dУсиленные трубки давления&r выдерживают до 20 &bБар&r и в 4 раза больший объём. На уровне в 25 &bБар&r они взрываются!"
+        ""
+        "Перед подключением к машинам убедитесь, что те могут выдержать увеличенное давление и объём. Либо используйте &bРегулятор&r!"
+    ]
+    quest.0EC122E853F2083C.title: "&fУсиленные трубки давления"
+    quest.0ED940DF43A934ED.quest_desc: [
+        "&aМодуль всасывания&r работает так, как звучит — он позволяет &dМаршрутизатору&r собирать все выпавшие в радиусе предметы, который можно расширить, добавив &aУсилители дальности&r внутрь модуля."
+        ""
+        "&aУсилитель скорости сбора&r также можно поместить внутрь модуля, чтобы ускорить сбор предметов."
+    ]
+    quest.0ED940DF43A934ED.title: "&fМодуль всасывания"
+    quest.0EE0A8941A69703E.quest_desc: [
+        "Как только вы добудете &6Свиток заклинания&r, вы можете вписать его в вашу книгу заклинаний с помощью &aСтола вписывания&r."
+        ""
+        "В интерфейсе стола вы можете поместить том заклинаний, в который хотите вписать свиток. Затем положите свиток в пустой слот слева внизу тома и нажмите на значок над ним, чтобы вписать заклинание."
+        ""
+        "Каждый том может вместить ограниченное количество заклинаний. Начальный том вмещает всего 5–6. Рекомендуется как можно скорее его улучшить!"
+        "{@pagebreak}"
+        "Вы также можете удалить заклинание из тома, выбрав его в интерфейсе и нажав на &aСвиток заклинания&r справа, чтобы вынуть его."
+    ]
+    quest.0EE0A8941A69703E.title: "&aВписывание заклинаний"
+    quest.0EE35D6E57FAD973.quest_desc: ["Самый полезный предмет для настройки зачарований — он действует как хранилище зачарований, позволяя выбирать и использовать только нужные."]
+    quest.0EE35D6E57FAD973.quest_subtitle: "Магическое хранилище!"
+    quest.0EE35D6E57FAD973.title: "&dБиблиотека зачарований"
+    quest.0EFA11536D00E653.quest_desc: [
+        "&2Биотопливо&r также может быть отличным источником энергии на ранних этапах игры!"
+        ""
+        "Чтобы превратить топливо в энергию, вам нужно создать &aБиогенератор&r. Добавьте в него биотопливо — и всё готово!"
+        ""
+        "Примечание: Энергию можно забирать только с передней грани с большой квадратной кнопкой."
+    ]
+    quest.0EFA11536D00E653.title: "&2Энергия из биотоплива"
+    quest.0F184788499005C6.quest_desc: ["&aКольцо стойкости&r применяет &bДействующий эффект&r материала брони каждый раз, когда игрок блокирует атаку щитом."]
+    quest.0F184788499005C6.title: "&fКольцо стойкости"
+    quest.0F22A0A29B961A1C.quest_desc: ["Хотя &eЭтилбензол&r получают при &3Перегонке&r &dПарового Нафталина&r, вы также можете объединить &3Этилен&r и &aБензол&r, чтобы получить больше &eЭтилбензола&r."]
+    quest.0F22A0A29B961A1C.quest_subtitle: "Этилен + Бензол"
+    quest.0F22A0A29B961A1C.title: "&eЭтилбензол"
+    quest.0F27F75EC72DBAA9.quest_desc: ["[ \"&7Разрушитель дальнего действия&r работает как обычный \", {\"text\": \"Разрушитель\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1CE0FEAC977DA7FF\" } }, \", но имеет радиус действия в 8 блоков.\" ]"]
+    quest.0F2DD1EF4E57E523.title: "&6Фрагмент размерного воспоминания"
+    quest.0F3E0EBEC3DBED48.quest_desc: [
+        "&aУсилители труб&r используются для значительного увеличения скорости потока &eПредметных&r и &bЖидкостных труб&r."
+        ""
+        "Предметные трубы могут экспортировать целый стек за тик, а жидкостные — до 40 вёдер за тик."
+        ""
+        "Не забудьте подавать питание, чтобы они работали!"
+    ]
+    quest.0F3E0EBEC3DBED48.title: "&fУсилитель труб"
+    quest.0F3EDB9AE592016B.quest_desc: ["Улучшает ёмкость энергии и скорость её передачи."]
+    quest.0F3EDB9AE592016B.title: "&fАддон конденсатора для машин"
+    quest.0F4ABB66EC22C066.quest_desc: [
+        "Если вы хотите скрыть свои &aКондукты&r, вам понадобятся &bФасады кондуктов&r!"
+        ""
+        "Эти фасады можно изменить так, чтобы они выглядели как любой другой блок, используя &aМашину покраски&r."
+        ""
+        "Внутри &aМашины покраски&r блоки, помещённые во второй слот ввода, будут окрашены под блок, установленный в слот шаблона. Блоки в слоте шаблона не расходуются."
+    ]
+    quest.0F4ABB66EC22C066.title: "&fСкрытие кондуктов"
+    quest.0F7F7C7ABF851D84.quest_desc: ["&aГенератор Хронона&r пассивно производит &bХронон&r, заряжая различные &eУстройства Tempad&r, пока они находятся в вашем инвентаре."]
+    quest.0F7F7C7ABF851D84.title: "&aГенератор хронона"
+    quest.0F8037316FBF818A.quest_desc: ["&eБутадиен&r используется для создания &7Стирол-бутадиена&r."]
+    quest.0F8037316FBF818A.title: "&eБутадиен"
+    quest.0F9B3AAA45817C49.quest_desc: [
+        "&bМножитель качества&r: x0.75"
+        ""
+        "&bБазовый эффект&r: Сопротивление отбрасыванию"
+        ""
+        "&bПоложительный эффект&r: Отсутствует"
+        ""
+        "&bЭффект иммунитета&r: Отсутствует"
+        ""
+        "&bДействующий эффект&r: Отсутствует"
+    ]
+    quest.0F9B3AAA45817C49.title: "&aЛатунная обвязка"
+    quest.0F9EBFD7BBC355D5.quest_desc: ["&dВечный снежок&r позволяет метать бесконечное количество снежков."]
+    quest.0F9EBFD7BBC355D5.title: "&dВечный снежок"
+    quest.0FA7ECE8C07ADAB1.quest_desc: [
+        "&dТалисман увядания&r увеличивает урон на 25%, если игрок находится под эффектом Увядания."
+        ""
+        "Он также используется для создания &bСилы негатива&r."
+    ]
+    quest.0FA7ECE8C07ADAB1.title: "&dТалисман увядания"
+    quest.0FA81BDE4918C7F7.quest_desc: [
+        "&6Усиленная дизельная смесь&r — лучшее жидкое топливо."
+        ""
+        "Обратите внимание, что для его изготовления требуется &2Диэтиловый эфир&r (можно найти в дереве дистилляции нефтепереработки прямо ниже)."
+    ]
+    quest.0FA81BDE4918C7F7.title: "&6Усиленная дизельная смесь"
+    quest.0FC3672189B0854D.quest_desc: [
+        "&cIesnium&r — редкий металл, который можно найти на некоторых парящих островах. &6Apothecarist&r иногда даёт немного руды на своём острове, поскольку раньше жил в Нижнем мире, но есть слухи о большем количестве, спрятанном глубоко в &6Замке Нижнего мира&r. Его можно добывать только с помощью &aПикового кирки с инфузорием&r или &cКирки Iesnium&r, надев &aОчки другого мира&r."
+        "[\"\", {\"text\": \"Ещё один способ — предложить большое количество серебра...\", \"color\": \"gray\", \"italic\":true}, {\"text\": \"этому колодцу\", \"color\": \"dark_purple\", \"italic\":true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"781D7DA09E444B95\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Следуйте за шёпотом\"]} }, {\"text\": \"...\", \"color\":\"gray\", \"italic\":true}]"
+        ""
+        "&cРуда Iesnium&r обрабатывается как большинство других руд. Вы также можете поставить её, и тогда она будет добываться любыми кирками, давая &aСырое Iesnium&r."
+        ""
+        "&cСлитки Iesnium&r используются для создания &cКирки Iesnium&r, &cЛамп духов&r и других мощных предметов."
+        ""
+        "Не забудьте, что &aЖезл пророчеств&r поможет вам обнаружить руду поблизости!"
+    ]
+    quest.0FC3672189B0854D.title: "&cIesnium"
+    quest.0FEE43187F69FA22.quest_desc: [
+        "С помощью &aКамеры растворения&r мы можем повысить уровень наших каркасов машин!"
+        ""
+        "&bПростой каркас машины&r в основном служит переходным этапом для создания следующего уровня каркаса."
+        ""
+        "Из него также можно сделать &aУдобрение для растений&r."
+    ]
+    quest.0FEE43187F69FA22.title: "&bПростой каркас машины"
+    quest.0FFC6CBB213B30AD.quest_desc: ["Производит энергию, потребляя молоко и липкие предметы."]
+    quest.0FFC6CBB213B30AD.title: "&fГенератор из плоти слизня"
+    quest.10143533A2437ABE.quest_desc: [
+        "&aКремний&r необходим для создания большинства электронных компонентов мода, включая &aПроцессоры&r. Кремний создаётся из переплавки &bПыли Certus&r."
+        ""
+        "Вам стоит автоматизировать процесс создания &aНапечатанного кремния&r как можно скорее!"
+    ]
+    quest.10143533A2437ABE.title: "&aКремний"
+    quest.101457F50427E14E.quest_desc: [
+        "&cПалка Blazejet&r — отличный инструмент для перемещения."
+        ""
+        "Эта палка оснащена способностью &aВоздушный взрыв&r. При использовании она толкает вас вперёд на несколько блоков."
+        ""
+        "Вы даже можете улучшить её, чтобы открыть дополнительные способности!"
+    ]
+    quest.101457F50427E14E.title: "&cПалка Blazejet"
+    quest.1036AB9D02AB96F1.quest_desc: [
+        "&aРеактор переработки&r обрабатывает жидкости и катализаторы, чтобы создать новую продукцию."
+        ""
+        "Этот &bТяжёлый станок&r используется для создания более сложных жидкостей, таких как &dАцетальдегид&r."
+        ""
+        "Не забудьте проверить &bИнженерное руководство&r, чтобы собрать мультиблок!"
+    ]
+    quest.1036AB9D02AB96F1.title: "&fРеактор переработки"
+    quest.103DD37E53765969.quest_subtitle: "Передача предметов"
+    quest.103DD37E53765969.title: "&fMI Трубопроводы"
+    quest.1044061B20F62F5E.quest_desc: [
+        "&aЭнергизатор&r заряжает предметы, которые хранят энергию."
+        ""
+        "&aЭнергоотводчик&r разряжает такие предметы и сохраняет энергию."
+    ]
+    quest.1044061B20F62F5E.title: "&aУправление энергией"
+    quest.105D29AEE67BE97B.quest_desc: [
+        "Практически у каждого инструмента в моде есть возможность установить &6Улучшение&r."
+        ""
+        "Чтобы их применить, сначала создайте улучшение, затем объедините его с инструментом или частью брони в &aСтоле кузнеца&r."
+        ""
+        "Примечание: Зажатие Shift на предмете показывает доступные улучшения! Некоторые улучшения подходят только для продвинутых предметов."
+    ]
+    quest.105D29AEE67BE97B.title: "&fУлучшения &aинструментов"
+    quest.1069575C4B5BCE39.quest_desc: [
+        "&eRefined Storage 2&r (&eRS2&r) — мод для управления хранилищами, предоставляющий систему сетевого хранения предметов, жидкостей и газов через расширяемую сеть устройств."
+        ""
+        "Перед тем как создать первый &aЯдро машины&r, которое используется для многих компонентов сети, вам нужно добыть слитки Sky Steel. Проверьте связанный квест, чтобы узнать, как это сделать."
+    ]
+    quest.1069575C4B5BCE39.title: "&fДобро пожаловать в &eRefined Storage 2"
+    quest.107C26E8BF309BC1.quest_desc: [
+        "Путешествуя по миру, вы встретите множество &dАрканического&r лута."
+        ""
+        "Самый распространённый предмет — это &dАрканическая эссенция&r. Её можно использовать для создания &dАрканической ткани&r, приготовления &bЗелья маны&r и многого другого!"
+        "{@pagebreak}"
+        "Вы также найдёте &aПустые рунные камни&r, из которых можно создать &2Рунные камни&r — один из самых мощных элементов экипировки в моде. &aНе пустые рунные камни&r можно найти после убийства магов."
+        ""
+        "&bМифрил&r — легендарный металл, который нельзя добыть обычными способами в пустоте или тем, что за этим проходит. Возможно, какой-то магический источник может его дать... например, портал..."
+    ]
+    quest.107C26E8BF309BC1.title: "&fАрканические открытия"
+    quest.109CB437DFAECDC6.quest_desc: [
+        "&aАлloy Smelter&r будет вашей самой используемой машиной в &eEnderIO&r, так как это улучшенная версия &7Примитивного аллотерма&r, и его можно улучшать с помощью &bКонденсаторов&r."
+        ""
+        "Через интерфейс &aAlloy Smelter&r вы можете настроить его под разные задачи, чтобы улучшить автоматизацию. Здесь доступны настройка сторон ввода/вывода, управление красным камнем и переключение между трёмя режимами:"
+        "{@pagebreak}"
+        "&eТолько сплавы&r: Позволяет создавать только сплавы."
+        ""
+        "&eТолько плавка&r: Работает как обычная печь."
+        ""
+        "&eСплавы и плавка&r: В этом режиме машина делает и то, и другое, но при автоматизации могут возникнуть проблемы — некоторые предметы будут плавиться до создания сплавов."
+    ]
+    quest.109CB437DFAECDC6.title: "&aАллотерм"
+    quest.10AB0C0930A5D77D.title: "&5Регенерация"
+    quest.10B7437F3E412D26.quest_desc: [
+        "Чтобы создать &7Старинную пчелу&r, поместите &aNetherite Block&r на &aБриллиантовую пчелу&r, чтобы преобразовать её."
+        ""
+        "Эта пчела использует &aNetherite Block&r как цветок, что довольно дорого."
+    ]
+    quest.10B7437F3E412D26.title: "&7Старинные пчёлы"
+    quest.10E3AB8F0B7B9F30.quest_desc: [
+        "Если бросить обычный &2Саженец дуба&r в &dОгонь духа&r, он превратится в &aСаженец дуба&r из &9Другого мира&r."
+        ""
+        "Посадив и вырастив его, дерево будет выглядеть как обычный дуб. Но те, кто под действием эффекта &bТретьего глаза&r, смогут увидеть истинную форму."
+        ""
+        "Если рубить дерево, находясь под эффектом &bТретьего глаза&r, оно будет давать &aБревно Другого мира&r, которое используется в крафте и ритуалах."
+        ""
+        "Поместив брёвна в &dОгонь духа&r, вы получите &aПепел Другого мира&r — ключевой компонент для создания &aБелого мелка&r."
+    ]
+    quest.10E3AB8F0B7B9F30.title: "&9Бревно другого мира"
+    quest.10E8E47BEFCA8F97.quest_desc: [
+        "&dПризыв Осорина&r используется для связи с различными &bДухами&r ради разных целей."
+        ""
+        "Здесь очень много summon'ов — просто нажмите галочку, чтобы продолжить квест."
+        "{@pagebreak}"
+        "&lИспытательные призывы:&r"
+        "- Слабый бриз: &cКлюч испытаний&r, &cЗловещая бутылка&r, а также соответствующие черепки и диски"
+        "- Бриз: &dЗловещий ключ&r, связанные диски, узоры баннеров и шаблоны кузнеца"
+        "- Сильный бриз: &6Тяжёлое ядро&r, черепки, музыкальные диски, узоры баннеров и шаблоны кузнеца"
+        ""
+        "&lДикие призывы:&r"
+        "- Дикая охота: &dЧереп скелета-витер&r (1)"
+        "- Дикие разбойники: &dТотем бессмертия&r (1) и связанные шаблоны кузнеца"
+        ""
+        "&lОрды:&r"
+        "- &aОрда криперов&r: Обычные музыкальные диски"
+        "- &aОрда утопленников&r: Яйца снайфера, яйца черепахи, черепки из океана"
+        "- &aОрда хасков&r: Шаблоны кузнеца и черепки из пустыни"
+        "- &aОрда серебряных рыбок&r: Шаблоны кузнеца, диски и черепки из развалин"
+        "{@pagebreak}"
+        "&lГруппы:&r"
+        "- &aОбычные животные&r: Куры, коровы, свиньи, овцы, осьминоги, волки"
+        "- &aЖивотные-сиденья&r: Верблюды, ослы, лошади, ламы, свиньи, скелетные лошади, торговцы-ламы, зомби-лошади"
+        "- &aМелкие животные&r: Всеюшки, летучие мыши, пчёлы, попугаи, кошки, рыси, лисы, кролики"
+        "- &aОсобые животные&r: Броненосцы, козы, железные големы, мошрумы, панды, белые медведи, снайферы"
+        "- &aВодные животные&r: Аксолотли, лягушки, дельфины, минтай, лосось, тропические рыбы, рыба-пуфф, осьминоги/светящиеся осьминоги, головастики, черепахи, снежные големы"
+        "- &aЖители&r: Жители и странствующие торговцы"
+        ""
+        "&lПризыв предметов:&r"
+        "- Улей"
+        "- Колокол"
+        "- Парящий аметист"
+        "- Армированный глубстейт"
+        "- Шаблон кузнеца"
+    ]
+    quest.10E8E47BEFCA8F97.quest_subtitle: "Пентаграмма вызова диких духов"
+    quest.10E8E47BEFCA8F97.title: "&dПризыв Осорина"
+    quest.10F792474C01A594.quest_desc: [
+        "&eOccultism&r — это магический мод, основанный на призыве &bДухов&r и использовании их силы в своих целях."
+        ""
+        "Для начала вам понадобятся &aСемена сна демона&r или, скорее всего, купить их на &eРынке&r."
+        ""
+        "&6Словарь духов&r — это главная книга мода. Он нужен для некоторых рецептов и может быть использован для создания &bГолограмм&r, которые помогут вам собирать &dРитуалы&r!"
+    ]
+    quest.10F792474C01A594.title: "&fДобро пожаловать в &eOccultism&f!"
+    quest.1105D1809EB9ADEF.title: "&eБесконечно сжатая плата"
+    quest.11078789ACAB91CE.quest_desc: [
+        "Как только вы добудете Перья Энда и немного порошка Блэйза, вы сможете создать &6Глаз Энда&r."
+        ""
+        "Их можно использовать, чтобы найти дорогу в Эндер-мире через активацию портала, который вам нужно сделать самостоятельно. Также их можно использовать во множестве других рецептов."
+    ]
+    quest.11078789ACAB91CE.title: "&6Глаза Энда"
+    quest.11129E29B22F9898.quest_desc: [
+        "&3Душа колосса&r увеличивает здоровье в 5 раз и блокирует все негативные эффекты. Она конфликтует с &bСилой негатива&r."
+        ""
+        "Предметы, необходимые для создания &3Души колосса&r, можно найти в &bПодземелье Fargo&r."
+        ""
+        "&3Душа колосса&r используется для создания &9Души измерений&r."
+    ]
+    quest.11129E29B22F9898.title: "&3Душа колосса"
+    quest.1114D1FD164E514B.quest_desc: [
+        "&eArs Nouveau&r — мод, посвящённый магии! А где есть магия — там и заклинания &dSpells&r!"
+        ""
+        "Для этого вам понадобится &aНачальный учебник заклинаний&r. Он позволяет создавать, хранить и применять &aЗаклинания уровня 1&r! Также в него уже встроены базовые знания (называемые &bГлифами&r), чтобы вы могли сразу же начать учиться."
+    ]
+    quest.1114D1FD164E514B.title: "&fДобро пожаловать в &eArs Nouveau&f!"
+    quest.111F60263C10C60B.title: "&fГамбургер"
+    quest.114B4840D2FA1CDF.quest_desc: [
+        "&aКамера очистки&r в основном используется для увеличения выхода из сырой руды."
+        ""
+        "Это первая машина в &eЦепочке обработки руды второго уровня&r, которая требует &bКислорода&r для переработки сырой руды в &aЧастицы руды&r."
+    ]
+    quest.114B4840D2FA1CDF.title: "&aОчистка руды"
+    quest.117131CF7E2FE2DE.quest_desc: [
+        "&bМножитель качества&r: x1.0"
+        ""
+        "&bБазовый эффект&r: Получение опыта"
+        ""
+        "&bПоложительный эффект&r: Отсутствует"
+        ""
+        "&bЭффект иммунитета&r: Свечение"
+        ""
+        "&bДействующий эффект&r: Замедление"
+    ]
+    quest.117131CF7E2FE2DE.title: "&fЛазурит"
+    quest.1190DD56F5C5AB46.quest_desc: [
+        "&aСхеманнон&r и &aСтол схем&r позволяют копировать и вставлять структуры в виде &bЧертежа&r с одного места на другое."
+        ""
+        "Убедитесь, что рядом есть порох и инвентарь, куда можно положить предметы."
+        ""
+        "Вы также можете сохранять структуры в ваших локальных файлах и использовать чужие &bЧертежи&r в своём мире!"
+    ]
+    quest.1190DD56F5C5AB46.title: "&aСхеманнон"
+    quest.11C58E38DE9488BE.quest_desc: [
+        "Если вы задумали автоматическую &aФерму мобов&r, обязательно взгляните на &eMob Grinding Utils&r!"
+        ""
+        "Этот мод предлагает массу полезных предметов для идеальной фермы. &aМясорубка&r будет перемалывать всё, что попадёт внутрь, и её можно улучшать с помощью &aМодулей добычи&r, чтобы получать больше трофеев за убийство мобов."
+        ""
+        "Скомбинируйте это с &eSpawner'ом из Apotheosis&r — и у вас будет идеальная ферма!"
+    ]
+    quest.11C58E38DE9488BE.title: "&fФерма &aДобычи мобов"
+    quest.11D49C5B6C2D4CF0.quest_desc: [
+        "&7Талисман скелета&r увеличивает урон на 50% при стрельбе из лука."
+        ""
+        "Он также используется для создания &bСилы Отторжения&r."
+    ]
+    quest.11D49C5B6C2D4CF0.title: "&7Талисман скелета"
+    quest.11E086D8E2C6B642.quest_desc: [
+        "&aАдамант&r — один из основных сплавов, используемых в &eOritech&r во множестве рецептов и машин."
+        ""
+        "Его создают комбинированием алмазов и слитков никеля в Плавильной печи."
+    ]
+    quest.11E086D8E2C6B642.title: "&fСлиток адаманта"
+    quest.11EAC083A8DF86EC.quest_desc: [
+        "Улучшение нашего &dКниги заклинаний&r позволяет колдовать &cЗаклинания уровня 2&r и увеличивает запас &9Маны&r!"
+        ""
+        "Первое улучшение — это &9Книга заклинаний мага&r, которая создаётся из обычных предметов Minecraft."
+    ]
+    quest.11EAC083A8DF86EC.title: "&fУлучшаем &dКнигу заклинаний"
+    quest.11EEAE553AD6C287.quest_desc: [
+        "Дерево — подходящий ресурс, но камень делает инструменты реально полезными. Собранные через сито гальки можно объединить в... ну, вы поняли — камень."
+        ""
+        "Но должен же быть способ получше, чем процеживать воду…"
+    ]
+    quest.11EEAE553AD6C287.title: "&fЩебень и камень!"
+    quest.1208CF1D5CA9E590.quest_desc: [
+        "&aГенератор Стирлинга&r — это базовый источник энергии на ранних этапах игры. Он сжигает предметы, такие как уголь, производя совсем немного энергии."
+        ""
+        "&7&oМашины EnderIO также могут работать от других источников энергии."
+    ]
+    quest.1208CF1D5CA9E590.title: "&fПроизводство энергии"
+    quest.1216065631D8B731.quest_desc: [
+        "&aСыворотка электролитных водорослей&r (&aEAS&r) применяется для усиления предметов и существ."
+        ""
+        "Чтобы получить &bМорскую воду&r для изготовления &aEAS&r, можно набрать воды ведром в океане или использовать &aСлив с глубин&r."
+        ""
+        "Это также ключевой компонент для создания &6Бесконечно сжатой платы&r из &dFTB Pyramid&r."
+    ]
+    quest.1216065631D8B731.title: "&aСыворотка электролитных водорослей"
+    quest.1237537100194BED.quest_desc: [
+        "Как небольшое божество разложения, &6Слиток нижнего звездного металла&r, выпадающий с побеждённого &dWither'а&r, всё чаще требуется как знак силы."
+        ""
+        "Призывается постановкой 3 черепов скелета-витера на «Т» из 4 песка душ."
+        ""
+        "{image:minecraft:textures/painting/wither.png width:100 height:100 align:center}"
+    ]
+    quest.1237537100194BED.title: "&fУбейте &dWither'а"
+    quest.12468F8BF7B80737.quest_desc: [
+        "Исследование всех измерений может занять много времени, особенно если вы ищете конкретные структуры!"
+        ""
+        "Попробуйте сделать &6Компас исследователя&r! Этот компас поможет найти любую структуру и укажет вам направление."
+        ""
+        "Вы также можете купить его у картографа за небольшую сумму или получить у странствующего торговца за монеты!"
+        ""
+        "Удачного путешествия!"
+    ]
+    quest.12468F8BF7B80737.title: "&2Путешествие по измерениям!"
+    quest.12498DE8D427D40E.quest_desc: ["Фортрессы Нижнего мира содержат множество бла́зов и скелетов-витеров, давая их ключевые ресурсы и хорошее количество лута."]
+    quest.12498DE8D427D40E.title: "&fНайти &cФортрессу Нижнего мира"
+    quest.12506117C5C46682.title: "&bЧёрный кварц"
+    quest.125A4B95A5D21B04.title: "&eIF Уровень 1 Аддоны"
+    quest.12662BF53A31F0B4.quest_desc: [
+        "Хочешь защитить своё имущество от других игроков? Создайте &aПилястру изгнания&r!"
+        ""
+        "Она будет отталкивать и блокировать вход игроков в радиусе действия &eПилястры&r. Вы можете настроить список разрешений с помощью &aФильтра игроков&r."
+    ]
+    quest.12662BF53A31F0B4.title: "&fПилястра изгнания"
+    quest.126A21F3BA5A808F.quest_desc: [
+        "&bМножитель качества&r: x1.5"
+        ""
+        "&bБазовый эффект&r: Сила заклинаний Эвокатора"
+    ]
+    quest.126A21F3BA5A808F.title: "&fРуна эвокации"
+    quest.126B2AC119617AD0.quest_desc: [
+        "&aОрганическая масса&r, собранная с мобов, проходит цепочку обработки, в результате чего даёт &bDNA&r, содержащее генетическую особенность, которую можно применить к другим существам."
+        ""
+        "&aОрганическая масса&r будет соответствовать типу моба, от которого она была взята."
+    ]
+    quest.126B2AC119617AD0.title: "&aОрганическая масса"
+    quest.126B4E4814DADCC8.quest_desc: [
+        "&aЛинза шахтёра&r может превращать видимые блоки в руду."
+        ""
+        "Когда лазер попадает в камень или глубстейт, он превращается в наземную руду, а при попадании в недерит — в недер-руду."
+    ]
+    quest.126B4E4814DADCC8.title: "&aЛинза шахтёра"
+    quest.1277CECF9C633D8B.quest_desc: [
+        "Теперь, когда мы можем обрабатывать жидкости в нашем центрифуге, мы можем производить &aСырой биополимер&r!"
+        ""
+        "Его можно использовать для создания нескольких важных предметов, включая &bПластиковые пластины&r и &6Биосталь&r."
+    ]
+    quest.1277CECF9C633D8B.title: "&6Биополимер"
+    quest.12843F69BB8EEFCE.quest_desc: ["&3Ссылки отображения&r используются для визуализации динамической информации вашей сети или блока."]
+    quest.12843F69BB8EEFCE.title: "&3Ссылка отображения"
+    quest.12B8D538B54497E2.quest_desc: [
+        "Как только вы сделаете &aКувалду для кузницы&r, создайте &bЖелезные пластины&r и несколько &bМедных компонентов&r — они понадобятся в большинстве рецептов."
+        ""
+        "Их также можно использовать для создания одного из лучших инструментов добычи на ранней стадии игры!"
+    ]
+    quest.12B8D538B54497E2.title: "&fПродолжаем осваивать кузню"
+    quest.12C1810996C15294.title: "&fЖелезная эссенция"
+    quest.12CB62610FEAADA0.quest_desc: ["Производит энергию, потребляя Дыхание дракона."]
+    quest.12CB62610FEAADA0.title: "&fГенератор плоти из дыхания дракона"
+    quest.131199313AE3F5E9.quest_desc: ["&aОбогащённая печь&r — это по сути обычная печь, но с возможностью питания и улучшений!"]
+    quest.131199313AE3F5E9.title: "&fНаша первая &aПечь с питанием"
+    quest.1316B86CF011B016.quest_desc: [
+        "&6Наковальня Iesnium&r — это &6Marid&r-инфузия, улучшающая функции обычной наковальни:"
+        ""
+        "- Она &3Не разрушается&r."
+        "- Может превышать максимальный уровень зачарований на 1."
+        "- &6Marid&r оплачивает половину указанной стоимости зачарования."
+        "- Снижает стоимость повторной обработки того же предмета."
+        "- Увеличивает предел стоимости зачарований."
+    ]
+    quest.1316B86CF011B016.title: "&6Наковальня Iesnium"
+    quest.132D9163A97ED955.quest_desc: [
+        "Броню можно улучшить, добавив в неё &aПодкладку&r."
+        ""
+        "Использование &2Кожи&r в качестве подкладки — хороший способ добавить броне свойство &bГибкости V&r."
+    ]
+    quest.132D9163A97ED955.title: "&fЧертёж подкладки"
+    quest.13448A305B57016A.quest_desc: [
+        "Если хотите улучшить своё снаряжение, &aInferium&r лучше алмаза! Также есть отличные новые инструменты, например &eКосы&r и &bСерпы&r, которые дают эффект сбора в области поражения!"
+        ""
+        "Эти инструменты можно улучшать с помощью &dУсиления&r в столе ремесленника."
+    ]
+    quest.1385135551DA36AB.quest_desc: [
+        "&bКруговая магия&r выполняется с помощью &aЗолотого мелка&r, который используется для размещения центрального глифа как «сердца» круга, а затем — &aРитуального мелка&r для создания окружности вокруг него."
+        ""
+        "Чтобы выполнить обряд или ритуал, положите все необходимые предметы на центральный глиф и активируйте его ПКМ. Некоторые из них могут потребовать &6Энергии алтаря&r или заряженного &bПронизанного камня&r для игнорирования требования энергии."
+        ""
+        "См. квест \"&5Заряженный Пронизанный камень&r\" для получения подробностей."
+        "{@pagebreak}"
+        "Большинство ритуалов требует одного &bКруга&r в виде 7x7 кольца (одна диагональ) вокруг центрального глифа."
+        "&7Пример отображён ниже."
+        ""
+        "Некоторые продвинутые ритуалы могут потребовать второй &bКруг&r, расположенный чуть дальше первого, образуя кольцо 11x11 вокруг центрального глифа (вторая диагональ)."
+        "&7Пример не показан ниже."
+        ""
+        ""
+        "    XXX"
+        "  X     X"
+        "X         X"
+        "X    &6X&r    X"
+        "X         X"
+        "  X     X"
+        "    XXX"
+        ""
+        "{@pagebreak}"
+        "Если вы хотите подобрать уже созданный круг и перенести его в другое место, вы можете сделать это с помощью обряда."
+        ""
+        "&aТалисман Круга&r, пыль красного камня и немного &6Энергии алтаря&r превратят круг в талисман. Без алтаря можно использовать &aТалисман&r, &eСветящийся порошок&r и &6Заряженный Пронизанный камень&r."
+        ""
+        "Чтобы снова разместить круг, просто щёлкните ПКМ по земле с зачарованным талисманом в руке, предварительно очистив площадку."
+        ""
+        ""
+        "...А зачем нужна &aМетла&r? Ну конечно, чтобы аккуратно подметать рассыпанный мелок. Других причин точно нет…"
+    ]
+    quest.1385135551DA36AB.title: "&fКруговая магия"
+    quest.138CB008CE4C838B.quest_desc: [
+        "Ars Nouveau позволяет выполнять &dРитуалы&r для призыва мобов, строительства парящих островов и многого другого!"
+        ""
+        "Чтобы провести первый ритуал, вам понадобится &3Жаровня ритуала&r и один из множества доступных &dТабличек ритуала&r, который вы хотите исполнить. Поставьте жаровню, используйте табличку, чтобы выбрать ритуал, а затем ещё раз нажмите ПКМ пустой рукой, чтобы начать ритуал."
+        ""
+        "Для большинства ритуалов требуется &dИсточник&r, так что убедитесь, что рядом есть &aСосуд Источника&r!"
+        "{@pagebreak}"
+        "Ритуалы также можно &aУсиливать&r, используя определённые предметы. Сначала используйте &3Табличку ритуала&r, затем по одному добавляйте усиления в жаровню, пока не будете готовы. После этого нажмите ПКМ пустой рукой, чтобы активировать ритуал."
+    ]
+    quest.138CB008CE4C838B.title: "&dРитуалы"
+    quest.13A336971A4AD188.quest_desc: [
+        "&3Душа Сверхзвука&r увеличивает скорость бега и ходьбы в 1.75x, а скорость полёта — в 2.5x."
+        ""
+        "Предметы, необходимые для создания &3Души сверхзвука&r, можно найти, убивая мобов в &bПодземелье Fargo&r."
+        ""
+        "Шанс выпадения трофеев зависит от уровня добычи."
+        ""
+        "&3Душа Сверхзвука&r может использоваться для создания &9Души измерений&r."
+    ]
+    quest.13A336971A4AD188.title: "&3Душа Сверхзвука"
+    quest.13AEA5AF8009472C.quest_desc: ["&aОбновка скорости&r увеличивает общую скорость работы машины, но требует больше энергии."]
+    quest.13AEA5AF8009472C.title: "&fУскорение"
+    quest.13C8B2286F5184C7.quest_desc: ["При зарядке, использование &3Жезла телепортации&r ПКМ переместит вас в направлении взгляда на расстояние до 100 блоков."]
+    quest.13C8B2286F5184C7.title: "&3Жезл телепортации"
+    quest.13CBFF5DAD6A1FA1.title: "&fПорошок Блэйза"
+    quest.13D6C551C8DBC124.quest_desc: [
+        "Мы не узнаем больше о магии, пока у нас не будет собственного особенного магического стола, сделанного из магической древесины, которую обычно находят в магическом лесу."
+        ""
+        "Разве это не &oмагично&r?"
+        ""
+        "Чтобы создать рабочее место, вам нужно добывать &2Древо Архива&r. Оно встречается редко на островах пустоты, богатых магической энергией, или мутирует с помощью &eMutandis&r. Также можно купить его у &eРынка&r."
+    ]
+    quest.13D6C551C8DBC124.title: "&aМагические деревья..."
+    quest.13DFA7B0975971B7.quest_desc: [
+        "&6Oritech&r предлагает два способа применения зачарований. Вся экипировка и инструменты &6Oritech&r можно зачаровывать."
+        ""
+        "&dСтабилизированный зачарователь&r позволяет применять «обычные» зачарования к вашему снаряжению. При наличии поблизости &dАрканического катализатора&r, заполненного &9Душами&r, вы можете применить зачарование с зачарованной книги к любому предмету, на любом уровне."
+        ""
+        "{@pagebreak}"
+        "При помещении предмета в &dСтабилизированный зачарователь&r, вы можете выбрать зачарование через GUI. Оно сохраняется для последующих предметов, но может быть изменено."
+        ""
+        "Для работы нужны как энергия, так и &9Души&r. &dСтабилизированный зачарователь&r сам не собирает души, он использует &9Души&r, хранящиеся в &dАрканических катализаторах&r поблизости. Число необходимых &dАрканических катализаторов&r зависит от уровня зачарования."
+        ""
+        "Считаются только те &dАрканические катализаторы&r, которые содержат &9Души&r."
+        ""
+        "{@pagebreak}"
+        "&dАрканические катализаторы&r также могут применять зачарования с книгами. Используемая книга должна быть максимального уровня зачарования. Она может применить любое зачарование к любому предмету."
+        ""
+        "Если инструмент уже имеет уровень зачарования, равный или превышающий максимум, вы можете использовать &6Гипер-зачарование&r. Это значительно повысит стоимость зачарования, но позволит превысить стандартный потолок."
+        ""
+        "По умолчанию &dАрканический катализатор&r может хранить до 50 &9Душей&r. Однако &6Гипер-зачарование&r требует больше."
+        ""
+        "Вы можете стабилизировать &dАрканические катализаторы&r с помощью &aЛазеров Эндерика&r — каждый лазер увеличивает вместимость &9Душей&r."
+        ""
+        "&c&lВНИМАНИЕ!&r Потеря стабилизации во время хранения &9Душей&r может иметь &cКатастрофические&r последствия."
+    ]
+    quest.13DFA7B0975971B7.title: "&dЗачарование в Oritech"
+    quest.13EC7C64DFBD1556.quest_desc: [
+        "Хотя вы можете использовать любую энергию из других модов, &eOritech&r предлагает множество вариантов её производства."
+        ""
+        "&aБазовый генератор&r — это стартовое устройство, которое сжигает любой вид топлива из печи, производя небольшое количество энергии."
+        ""
+        "Вы можете выводить энергию с помощью &cЭнергетических труб&r самого мода или других типов кабелей."
+    ]
+    quest.13EC7C64DFBD1556.title: "&eOritech &cЭнергия&f!"
+    quest.13FD704C45145E23.quest_desc: [
+        "&aОтсос жидкости&r — первая машина, которую вы захотите создать в этом моде."
+        ""
+        "Эти машины будут забирать &7Латекс&r из любого бревна, поставленного перед ними. Вам понадобится много &7Латекса&r, так что лучше сделать несколько таких машин!"
+        ""
+        "Эти машины работают и без энергии, но &bв 3 раза быстрее&r, если питание подано."
+        ""
+        "Большинство брёвен даёт среднее количество латекса, но &aАкация&r и &aМангровое дерево&r дают больше всего!"
+    ]
+    quest.13FD704C45145E23.title: "&fДобыча &7Латекса"
+    quest.13FE28AF74A357CD.quest_desc: ["&dМедные воронки&r и &dМедные туннели&r работают так же, как их аналоги из андезита, но позволяют настраивать количества и фильтрацию предметов."]
+    quest.13FE28AF74A357CD.title: "&dУлучшенная работа с предметами"
+    quest.1403ABF77D987200.quest_desc: [
+        "&aВыжималка&r используется для добычи предметов из определённых блоков, например, &bMenril&r из брёвен или досок Menril."
+        ""
+        "Для этого поместите предмет прямо на &aВыжималку&r, затем прыгайте на верхнюю часть устройства, пока что-нибудь не выпадет!"
+        ""
+        "Чтобы сбросить &aВыжималку&r, подайте сигнал красного камня с помощью кнопки или давильной плиты."
+        ""
+        "&aВыжималка&r — ключевое устройство для добычи &bКристаллических кусков Menril'rа&r из деревьев Menril."
+        ""
+        "Эту машину также можно использовать для увеличения выхода некоторых предметов, например, &6Порошка Блэйза&r из &cРудного стержня&r."
+    ]
+    quest.1403ABF77D987200.title: "&fДобыча &bMenril"
+    quest.141CE17C25D2A53A.quest_desc: [
+        "Чтобы создать любое улучшение для вашего рюкзака, сначала нужно изготовить &aБазу улучшения&r."
+        ""
+        "Есть множество полезных улучшений, например, &aУвеличение стека&r для повышения лимита предметов в слоте, или &aУлучшение питания&r, которое автоматически кормит вас, когда вы голодны!"
+        ""
+        "Не забудьте проверить их все!"
+    ]
 	quest.141CE17C25D2A53A.title: "&fUpgrade Base"
 	quest.1425B79ADD456D59.title: "iron stage"
 	quest.143E07D2565798AB.quest_desc: [
@@ -2301,275 +2301,275 @@
 	]
 	quest.14D727685CB433C1.quest_subtitle: "Простое хранение"
 	quest.14D727685CB433C1.title: "&fСтарый добрый &2Сундук"
-	quest.14FFB82FB7EB0659.title: "&fApple Pie"
-	quest.1507B28963B38101.quest_desc: [
-		"Tired of having manually craft all your components? Then the &aAutomated Engineer's Workbench&r is the right tool for you!"
-		""
-		"This multiblock has the same funcitionality as its non-automated version, but will automatically accept items and output the appropriate product based on the blueprint inside of the machine."
-		""
-		"This is considered &aHeavy Machinery&r, so make sure to check out the &bEngineer's Manual&r to learn how to build the multiblock!"
-	]
-	quest.1507B28963B38101.title: "&fAutomated Engineer's Workbench"
-	quest.1514FAC5930B55D2.quest_desc: [
-		"It can seem daunting to get started generating power for your base, especially in the early game!"
-		""
-		"[\"Make sure to check out the \", {\"text\": \"Power Generation\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"754048401D3A6A7B\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Go to Power Generation Chapter\"]} }, \" chapter to learn all about the different ways you can generate power.\"]"
-	]
-	quest.1514FAC5930B55D2.title: "&fThe &cPower Chapter"
-	quest.1536AFFBBB6D858A.quest_desc: ["[\"\", {\"text\": \"Topaz\", \"color\": \"green\"}, \" can only be found rarely from levelling trades with a villager that's using a \", { \"text\": \"Jewelcrafting Station\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"496903AB7E8A0A92\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Go to Jewelry Chapter\"]} }, \" as their job site.\"]"]
-	quest.1536AFFBBB6D858A.quest_subtitle: "Use Topaz on a Catalyst"
-	quest.1536AFFBBB6D858A.title: "&fBudding Topaz Geore"
-	quest.154E08BC9091684F.quest_desc: [
-		"&eGlowstone Dust&r is used as an amplifier for potions effects."
-		""
-		"When added, this will usually increase the strength of the potion."
-	]
-	quest.154E08BC9091684F.quest_subtitle: "Amplifier for potions."
-	quest.154E08BC9091684F.title: "&eGlowstone Dust"
-	quest.1553CDD5ED42DF02.quest_desc: [
-		"Strainers and sifters have worked just fine in the past, and nothing's wrong with them now!"
-		""
-		"This path uses &eCreate&r sifters to potentially automate the production of resources from this essence-rich void."
-		""
-		"To start, drip some water over &7Andesite&r obtained from the &aStrainer&r. This will form deposits of &2Andesite Amalgam&r that can be mined for early &7Andesite Alloy&r."
-	]
-	quest.1553CDD5ED42DF02.quest_subtitle: "Drips of Creativity"
-	quest.1553CDD5ED42DF02.title: "&fPath of Prospecting"
-	quest.15801A9BA5162395.title: "&fFerricore Boots"
-	quest.15956817DCDAD8C3.quest_desc: [
-		"Enchanted is a mod heavily inspired by the old mod Witchery."
-		""
-		"While the &aWitch's Oven&r is the iconic block of the mod, to really get started you'll need to take a dip into&e herbology&r off to the side."
-		""
-		"You can rarely get these seeds to drop from grass, but here's a few boxes with magical seeds to help get your green thumb going."
-	]
-	quest.15956817DCDAD8C3.quest_subtitle: "The Way of Witchery"
-	quest.15956817DCDAD8C3.title: "Entering Enchanted"
-	quest.15AE2FB38468A8B3.quest_desc: [
-		"With pure &2Naphtha&r, you can combine it with &7Steam&r in another &3Checmical Reactor&r to make &dSteam-Cracked Naphtha&r."
-		""
-		"You'll want to process this in a new &3Distillation Tower&r with 8 outputs."
-		""
-		"I guess you can say it isn't what it's &ocracked up&r to be."
-	]
-	quest.15AE2FB38468A8B3.title: "&dSteam-Cracked Naphtha Processing"
-	quest.15D80251D92D6A3C.quest_desc: [
-		"&5Shadowpulse Goo&r can also be used to convert &9Budding Amethyst&r into &6Budding Time Crystal Blocks&r. "
-		""
-		"To create and harvest &6Time Crystals&r from these, you'll need to make use of &cSwapper&r machines."
-		""
-		"To start, place the Budding Time Crystal block in the overworld (also works for other overworld-like dimensions)."
-		""
-		"After a little bit of time, the block will make a noise and change colors. It means it's ready to be moved!"
-		"{@pagebreak}"
-		"The next step will be moving the Budding Time Crystal block to the &cNether&r for it to absorb more energy there. Just like before, it will make a sound and change colors when ready."
-		"{@pagebreak}"
-		"Finally, you'll need to transport the Budding block to the &dEnd&r."
-		""
-		"It will absorb the dimension's energies and start to grow &6Time Crystals&r. Be careful not to harvest any crystal that isn't fully grown!"
-		""
-		"Over time, it will lose the energies it has absorbed and will need to be brought back to each dimension to recharge. This means you'll need to move the small crystal buds as well!"
-		""
-		"To move the block and growing crystals, you'll need to use the &cAdvanced Swapper&r."
-	]
-	quest.15D80251D92D6A3C.title: "&fAltering &dTime"
-	quest.15F655AA668D6541.quest_desc: [
-		"Using the &dPressure Chamber&r, we can craft some more advanced components like the &aFluid Mixer&r."
-		""
-		"The &aFluid Mixer&r mixes two fluids into either an item or another fluid. One significant use for this is producing &aBiodiesel&r."
-		""
-		"Since &0Crude Oil&r isn't a renewable resource, making &aBiodiesel&r from plant or vegetable oil is a better way of automating plastic!"
-	]
-	quest.15F655AA668D6541.title: "&fFluid Mixer"
-	quest.15F9D5C1BDCF2D80.title: "&316k Storage Part"
-	quest.16180601C60DA378.title: "&fUpgrade: Night Vision"
-	quest.1619084AFCD0B0DD.quest_desc: ["&bСпальные мешки&r позволяют спать ночью, не меняя точку возрождения!"]
-	quest.1619084AFCD0B0DD.title: "&bСон на ходу"
-	quest.16206DA366CABDBE.quest_desc: ["Crushing ingredients with a &aMestle&r and &aPortar&r can yield some new products or extend their use, but it's also a key tool for creating &bSpells&r."]
-	quest.16206DA366CABDBE.quest_subtitle: "Mortar and Pestle?"
-	quest.16206DA366CABDBE.title: "Pestle and Mortar"
-	quest.16224A108EBCDC46.quest_desc: ["With our new technology and chemicals, we can now create a new type of board for our electronics, the &dProcessing Unit Board&r."]
-	quest.16224A108EBCDC46.title: "&dProcessing Unit Board"
-	quest.163228798680D7ED.title: "&fFluid Card"
-	quest.16484C884A6ACE7F.quest_desc: [
-		"The &aEssence Of The Forest&r can be eaten as a fruit or used as a crafting ingredient."
-		""
-		"It can be obtained by right-clicking with a &aBoline&r on a &aBlack Thorn Log&r that has a green spot on it."
-	]
-	quest.16484C884A6ACE7F.title: "&aEssence Of The Forest"
-	quest.166BA0D04A1686C7.quest_desc: [
-		"&3Fortron&r can be extracted from the buffer of a &aCoercion Deriver&r or any other &bFortron-based machines&r."
-		""
-		"This can be done by using any method of fluid extracting from other mods."
-		""
-		"&7&oCheck the \"Logistics\" quest chapter for some fluid management options."
-		""
-		"&7&oNote: to complete this quest, you'll need to pump a bucket's worth (1000mB) into an assigned &2Task Screen&r."
-	]
-	quest.166BA0D04A1686C7.quest_subtitle: "&oFluid manipulation"
-	quest.166BA0D04A1686C7.title: "&fExtracting &3Fortron"
-	quest.169FF5F7AE73CF51.quest_desc: [
-		"The &aCopper Diving Suit&r allows you to explore deep oceans for longer, granting you water breathing while draining air from your backtank."
-		""
-		"To put air into a backtank, supply it from the top with some &bRotational Force&r."
-	]
-	quest.169FF5F7AE73CF51.title: "&aCopper Diving Suit"
-	quest.16B60BCB8240F808.quest_desc: [
-		"Once you've encoded some patterns using the Pattern Encoding Terminal, you can place them  into a &aPattern Provider&r. The Providers will try to complete the craft using whatever block it is attached to."
-		""
-		"For doing shaped and shapeless craft recipes that don't require machines, you can place the Provider next to a &dMolecular Assembler&r. These Assemblers are just fancy autocrafters!"
-		"{@pagebreak}"
-		"For other autocrafting tasks that require some type of processing, you'd place the Provider facing the machine you want to craft in."
-		""
-		"For example, you can set up autosmelting for recipes by placing a Furnace in front of the Provider, and then encoding the appropriate smelting recipes onto patterns to be placed into the Providers."
-		"{@pagebreak}"
-		"For more information about how to make the Pattern Providers and Assemblers work faster, check out the AE2 Guide!"
-	]
-	quest.16B60BCB8240F808.quest_subtitle: "The \"What\" and \"Where\" of Autocrafting"
-	quest.16B60BCB8240F808.title: "&fStoring Patterns"
-	quest.16C3EFC0741108EE.quest_desc: [
-		"&5Quantum Gear&r is the best there is. You can fly freely for no power cost, never take damage from external sources, and kill any mob in one hit with the &5Quantum Sword&r."
-		""
-		"&7&oIt better one-shot everything, since it's technically made out of 64 Nukes."
-	]
-	quest.16C3EFC0741108EE.title: "&5Quantum Gear"
-	quest.16C668B00B581A9C.quest_desc: [
-		"There are many types of bees in the world, but these can be broken down into two main categories."
-		""
-		"The first type you'll encounter are called &aSolitary Bees&r. These types of bees are usually spawned from &2Nests&r, which can be crafted. These bees &bdo not create any items&r, and as such can only live in their preferred nests. They are mainly used for breeding new types of bees!"
-		""
-		"Examples of Solitary Bees: Reed, Blue Banded, Carpenter"
-		"{@pagebreak}"
-		"The second type of bee we'll just call &aProductive Bees&r, because they actually produce something and mostly live in your Advanced Beehives."
-		""
-		"These bees are not found in the wild as often, and are mostly made from various methods like &aBee Breeding&r or &bBee Conversion&r. Some bees are also crafted by crafting their spawn eggs!"
-		""
-		"Examples of Productive Bees: Iron, Diamond, Sugarbag"
-	]
-	quest.16C668B00B581A9C.title: "&fBee Types"
-	quest.16D89D5036F39756.quest_desc: [
-		"&eMalum&r is a magic mod centered around the elemental and mental aspects of souls, harnessing these traits to create a wide array of arcane effects on yourself and the world around you!"
-		""
-		"This mod is still in active development, with the most recent addition being a system of pacts for players to accept in exchange for abilities."
-		""
-		"To get started in this mod, find or form &dSoulstone&r to create the two keystone features of the mod: the Spirit Altar, and the Crude Scythe."
-		""
-		"There are rumors of a &5structure&r somewhere out in the void, emitting whispers and tugging on certain materials. Perhaps you could seek it out and make a trade for some..."
-	]
-	quest.16D89D5036F39756.quest_subtitle: "The beginning of Malum"
-	quest.16D89D5036F39756.title: "&dSoulstone"
-	quest.16E0A9FD1B08D34E.quest_desc: [
-		"&6Concurrent Processors&r are high end processors used to calculate data on a &dquantum&r level."
-		""
-		"You'll need Entro Crystals, lots of power, and &dSingularities&r to begin crafting with these."
-	]
-	quest.16E0A9FD1B08D34E.title: "&fInscriber Concurrent Press"
-	quest.16EAA225AFBF41E6.quest_desc: [
-		"Using &dEclipse Embers&r, you can create the most energy dense fuel!"
-		""
-		"&dEclipse Ember Fuel&r can create up to 4k FE/t in a Simple Fuel Generator."
-	]
-	quest.16EAA225AFBF41E6.title: "&5Eclipse Ember Fuel"
-	quest.16F7490FA5DE307C.quest_desc: [
-		"The &dMob Crusher&r instantly kills mobs within its range. "
-		""
-		"It is extremely useful for hostile mob farms, as it outputs &aEssence&r to be used by a Mob Duplicator, a powerful customizable mob spawner."
-		""
-		"It also automatically collects the mob drops as well."
-	]
-	quest.16F7490FA5DE307C.title: "&aMob Crusher"
-	quest.1706D0B9391ED8E1.quest_desc: [
-		"&6Powah&r actually has the fastest energy cables! However, these don't have a buffer for storage like Mekanism's cables."
-		""
-		"These are your basic cables for transferring energy between machines."
-	]
-	quest.1706D0B9391ED8E1.title: "&fEnergy Cables"
-	quest.170CE041C0312188.quest_desc: ["&3Stock Tickers&r allow you to request a set of filtered items from a linked stock network."]
-	quest.170CE041C0312188.title: "&3Stock Ticker"
-	quest.172955F8F798D2D8.quest_desc: ["The &dWican Ward&r stops mobs from spawning in a large area around it."]
-	quest.172955F8F798D2D8.title: "&dWican Ward"
-	quest.173411DE23DFB758.quest_desc: [
-		"When powered, the &dPlasmid Infuser&r injects &bDNA Helices&r into &3Plasmids&r, adding DNA points to its total."
-		""
-		"&aBasic Genes&r are worth 1 point and cannot be the first one infused into a &3Plasmid&r."
-		""
-		"Genes of the &3Plasmid's&r type are worth 2 points."
-	]
-	quest.173411DE23DFB758.title: "&dPlasmid Infuser"
-	quest.1739969280BB4E82.quest_subtitle: "Transfers Redstone Signals"
-	quest.1739969280BB4E82.title: "&fRedstone Conduit"
-	quest.17612A3DF8930377.quest_subtitle: "This necklace gets a little explosive"
-	quest.17612A3DF8930377.title: "&bReflecting Necklace"
-	quest.176610923FDE130F.quest_desc: ["By using &bDoped Silicon Plates&r over their regular counterparts, you can greatly increase the yield from their various recipes."]
-	quest.176610923FDE130F.title: "&fDoped Silicon Plates"
-	quest.1770A460E1FD7CC8.quest_desc: [
-		"[\"\", {\"text\": \"Particle Accelerators\", \"color\":\"#FF55FF\"}, \" can be built in various ways, depending on their goals. A straight line of \", {\"text\": \"Linear Motors\", \"color\":\"#55FF55\"}, \" can shoot particles at something, but higher speeds are more efficiently reached with a circular design. Very large rings might be needed to reach certain elements. Slow particles require \", {\"text\": \"Guide Rings\", \"color\": \"#55FF55\"}, \" to be close together, so starting in a small ring and then \", {\"text\": \"using redstone\", \"color\":\"#55FFFF\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"778A876616D4638E\" } }, \" to move to a larger ring often makes sense.\"]"
-		""
-		"Multiple ring stages might be necessary for some cases."
-	]
-	quest.1770A460E1FD7CC8.title: "&fAccelerator Designs"
-	quest.1771DF7C6EBF1B89.quest_subtitle: "Eating Chorus Fruit has a purpose now"
-	quest.1771DF7C6EBF1B89.title: "&dChorus Inhibitor"
-	quest.17729D2D1F20BF44.quest_desc: [
-		"The &aFerricore Pickaxe&r is a slightly better pickaxe than an Iron pick."
-		""
-		"It has 2 potential upgrades. The &aOre Miner&r upgrade allows you to mine an entire ore vein all at once, while the &aOre Scanner&r allows you to search for nearby ores within walls."
-	]
-	quest.17729D2D1F20BF44.title: "&fFerricore Pickaxe"
-	quest.17A73A05FAE4D6F5.quest_desc: [
-		"The &bLegendary Talisman Base&r is a upgrade to the &dEpic Talisman Base&r."
-		""
-		"It allows you to craft &bForce Talismans&r, and can be upgraded into the &cUltimate Talisman Base&r."
-	]
-	quest.17A73A05FAE4D6F5.title: "&bLegendary Talisman Base"
-	quest.17B4FE9A8136B16A.quest_desc: [
-		"The &aIncubator&r is effectively a faster Brewing Stand."
-		""
-		"It works twice as fast (without overclocking), but requires FE instead of Blaze Powder."
-	]
-	quest.17B4FE9A8136B16A.title: "&aIncubator"
-	quest.17C82FAD796695DE.quest_desc: [
-		"A one-time starter bonus for devoting yourself to Prospecting!"
-		""
-		"&n&4Warning!&r Completing this quest by checking the checkmark will set your team on the Path of Prospecting and lockout the other 2 path rewards."
-	]
-	quest.17C82FAD796695DE.title: "&fStress Relief"
-	quest.17CD9810D724547E.quest_desc: [
-		"You can combined &4Crushed Chromium&r and &cHydrochloric Acid&r in a &3Chemical Reactor&r to make a &bChromium Hydrochloric Solution&r."
-		""
-		"This is then &3Electrolyzed&r to obtain &cTiny Piles of Chromium&r, as well as reclaiming some of the &bHydrogen&r and &eChlorine&r from the acid mix."
-	]
-	quest.17CD9810D724547E.title: "&cChromium Dust"
-	quest.17EBE81C391DE37E.quest_desc: ["&aChip Storage&r blocks are used to store &aMemory Chips&r, making them available in the network."]
-	quest.17EBE81C391DE37E.title: "&fChip Storage"
-	quest.1811EC8E48EAD1BD.quest_desc: [
-		"The &7Creeper Talisman&r grants the player a non-block damaging explosive jump (this effect can critically strike mobs)."
-		""
-		"It is also used to craft the &bForce of Rejectors&r."
-	]
-	quest.1811EC8E48EAD1BD.title: "&7Creeper Talisman"
-	quest.1820069FEA2237E6.quest_desc: [
-		"Throwing a &aBlock of Quartz&r into the laser will give you &2Ethetic Quartz&r, and throwing a &bChiseled Block of Quartz&r will give you its green variant."
-		""
-		"You will need 3 of each to make a &aDisplay Stand&r."
-	]
-	quest.1820069FEA2237E6.title: "&aEthetic Quartz"
-	quest.1841C1DAEC960312.quest_desc: [
-		"All tiers of &bSmelter Spirits&r are summoned to do furnace, blast furnace, smoker, and campfire processes without using fuel."
-		""
-		"They will pick up the appropriate items, smelt them, and then drop them back into the world. "
-		""
-		"A fire particle effect and a flame sound indicate the &bSmelter&r is at work."
-		""
-		"To automate this, summon a &7Foliot Transporter&r to place items from chests in the &bSmelter's&r inventory, and a &7Foliot Janitor&r to collect the processed items."
-	]
-	quest.1841C1DAEC960312.title: "&7Foliot &fSmelter"
-	quest.186BE7F6DFA8C41E.quest_desc: [
-		"&3Gunpowder&r converts potions into &aSplash Potions&r."
-		""
-		"These potions are instead thrown for an AoE effect, rather than drinking them straight."
-	]
-	quest.186BE7F6DFA8C41E.title: "&7Gunpowder"
+    quest.14FFB82FB7EB0659.title: "&fЯблочный пирог"
+    quest.1507B28963B38101.quest_desc: [
+        "Надоело вручную изготавливать компоненты? Тогда &aАвтоматизированная мастерская инженера&r — именно то, что вам нужно!"
+        ""
+        "Этот мультиблок работает так же, как и обычный, но автоматически принимает предметы и выдаёт нужный результат, основываясь на чертеже внутри машины."
+        ""
+        "Это считается &aТяжёлой техникой&r, так что обязательно проверьте &bИнженерное руководство&r, чтобы узнать, как его собрать!"
+    ]
+    quest.1507B28963B38101.title: "&fАвтоматизированная мастерская инженера"
+    quest.1514FAC5930B55D2.quest_desc: [
+        "Может показаться сложным начать добывать энергию для вашей базы, особенно на ранних этапах игры!"
+        ""
+        "[\"Не забудьте посмотреть главу \", {\"text\": \"Производство энергии\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"754048401D3A6A7B\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Перейти к главе о производстве энергии\"]} }, \" чтобы узнать обо всех способах генерации энергии.\"]"
+    ]
+    quest.1514FAC5930B55D2.title: "&fГлава об &cЭнергии"
+    quest.1536AFFBBB6D858A.quest_desc: ["[\"\", {\"text\": \"Топаз\", \"color\": \"green\"}, \" встречается редко при уровнях торговли у жителя, использующего \", { \"text\": \"Ювелирную станцию\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"496903AB7E8A0A92\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Перейти к главе про ювелирное дело\"]} }, \" как рабочее место.\"]"]
+    quest.1536AFFBBB6D858A.quest_subtitle: "Используйте топаз на катализаторе"
+    quest.1536AFFBBB6D858A.title: "&fПарящий топазовый кристалл"
+    quest.154E08BC9091684F.quest_desc: [
+        "&eСветящаяся пыль&r используется как усилитель эффектов зелий."
+        ""
+        "Если добавить её в зелье, это обычно усиливает его действие."
+    ]
+    quest.154E08BC9091684F.quest_subtitle: "Усилитель для зелий"
+    quest.154E08BC9091684F.title: "&eСветящаяся пыль"
+    quest.1553CDD5ED42DF02.quest_desc: [
+        "Раньше отлично работали сита и просеиватели, и сейчас они не стали хуже!"
+        ""
+        "Этот путь использует &eCreate&r-просеиватели, чтобы автоматизировать добычу ресурсов из богатой эссенцией пустоты."
+        ""
+        "Для начала капните немного воды на &7Андезит&r, полученный через &aСита&r. Это создаст отложения &2Амальгамы андезита&r, из которых можно добыть &7Сплав андезита&r для ранней стадии."
+    ]
+    quest.1553CDD5ED42DF02.quest_subtitle: "Капли творчества"
+    quest.1553CDD5ED42DF02.title: "&fПуть разведчика"
+    quest.15801A9BA5162395.title: "&fБотинки из феррокора"
+    quest.15956817DCDAD8C3.quest_desc: [
+        "Enchanted — мод, вдохновлённый старым модом Witchery."
+        ""
+        "Хотя &aПечь ведьмы&r — самый узнаваемый блок, чтобы начать, лучше сперва немного разобраться с &eТравоведением&r."
+        ""
+        "Эти семена можно редко получить из травы, но вот несколько коробок с магическими семенами, чтобы помочь вашему «зелёному» делу."
+    ]
+    quest.15956817DCDAD8C3.quest_subtitle: "Путь ведьмы"
+    quest.15956817DCDAD8C3.title: "Вступление в Enchanted"
+    quest.15AE2FB38468A8B3.quest_desc: [
+        "Используя чистый &2Нафталин&r, вы можете смешать его с &7Парами&r в другом &3Химическом реакторе&r, чтобы получить &dПаровой крекинг нафталина&r."
+        ""
+        "Вы захотите переработать это в новой &3Колонне дистилляции&r с 8 выходами."
+        ""
+        "Можно сказать, что это не совсем то, чем казалось на первый взгляд..."
+    ]
+    quest.15AE2FB38468A8B3.title: "&dПаровой крекинг нафталина"
+    quest.15D80251D92D6A3C.quest_desc: [
+        "&5Гуща Shadowpulse&r также может превращать &9Парящий аметист&r в &6Парящие блоки временного кристалла&r."
+        ""
+        "Чтобы создать и собрать &6Временные кристаллы&r, потребуется использовать машины &cSwapper&r."
+        ""
+        "Начните с того, что поместите блок Парящего временного кристалла в Нижний мир (работает и в других похожих измерениях)."
+        ""
+        "Через некоторое время блок издаст звук и изменит цвет. Это значит, что он готов к перемещению!"
+        "{@pagebreak}"
+        "Следующий шаг — переместить блок в &cНижний мир&r, чтобы он там накопил больше энергии. Как и раньше, он издаст звук и изменит цвет, когда будет готов."
+        "{@pagebreak}"
+        "Наконец, переместите этот блок в &dЭндер-мир&r."
+        ""
+        "Он начнёт поглощать энергию измерения и расти, выпуская &6Временные кристаллы&r. Будьте осторожны — не собирайте недозревшие кристаллы!"
+        ""
+        "Со временем он потеряет поглощённую энергию и потребует повторной подзарядки в каждом из измерений. Это значит, что вам придётся перемещать даже маленькие побеги!"
+        ""
+        "Для перемещения блока и роста кристаллов вам понадобится &cПродвинутый Swapper&r."
+    ]
+    quest.15D80251D92D6A3C.title: "&fИзменение &dВремени"
+    quest.15F655AA668D6541.quest_desc: [
+        "Используя &dКамеру давления&r, мы можем создавать более продвинутые компоненты, например, &aСмеситель жидкостей&r."
+        ""
+        "&aСмеситель жидкостей&r объединяет две жидкости в другой предмет или жидкость. Одно важное применение — создание &aБиодизеля&r."
+        ""
+        "Поскольку &0Нефть&r — невозобновляемый ресурс, производство &aБиодизеля&r из растительного масла — лучший способ автоматизировать производство пластика!"
+    ]
+    quest.15F655AA668D6541.title: "&fСмеситель жидкостей"
+    quest.15F9D5C1BDCF2D80.title: "&3Часть хранения на 16k"
+    quest.16180601C60DA378.title: "&fОбновка: Ночное зрение"
+    quest.1619084AFCD0B0DD.quest_desc: ["&bСпальные мешки&r позволяют спать ночью, не меняя точку возрождения!"]
+    quest.1619084AFCD0B0DD.title: "&bСон на ходу"
+    quest.16206DA366CABDBE.quest_desc: ["Измельчение ингредиентов с помощью &aСтупки&r и &aПестика&r может дать новые продукты или расширить их использование, а также является ключевым инструментом для создания &bЗаклинаний&r."]
+    quest.16206DA366CABDBE.quest_subtitle: "Ступка и пестик?"
+    quest.16206DA366CABDBE.title: "Ступка и пестик"
+    quest.16224A108EBCDC46.quest_desc: ["С нашим новым уровнем технологий и химикатов, мы теперь можем создать новый тип платы для электроники — &dПлата процессора&r."]
+    quest.16224A108EBCDC46.title: "&dПлата процессора"
+    quest.163228798680D7ED.title: "&fКарта жидкостей"
+    quest.16484C884A6ACE7F.quest_desc: [
+        "&aЭссенция леса&r может использоваться как фрукт или как ингредиент крафта."
+        ""
+        "Вы можете получить её, используя &aНож Boline'rа&r на &aБревне чёрной колючки&r с зелёным пятном."
+    ]
+    quest.16484C884A6ACE7F.title: "&aЭссенция леса"
+    quest.166BA0D04A1686C7.quest_desc: [
+        "&3Фортон&r можно извлечь из буфера &aКоэрцитивного дериватора&r или любой другой &bМашины на Фортоне&r."
+        ""
+        "Это можно сделать любым способом из других модов, подходящим для извлечения жидкостей."
+        ""
+        "&7&oСм. главу \"Логистика\" для вариантов управления жидкостями."
+        ""
+        "&7&oПримечание: чтобы выполнить этот квест, нужно перекачать целое ведро (1000 мБ) в назначенную &2Панель задач&r."
+    ]
+    quest.166BA0D04A1686C7.quest_subtitle: "&oУправление жидкостями"
+    quest.166BA0D04A1686C7.title: "&fИзвлечение &3Фортона"
+    quest.169FF5F7AE73CF51.quest_desc: [
+        "&aМедицинский водолазный костюм&r позволяет исследовать глубокие океаны дольше, обеспечивая дыхание под водой за счёт воздуха из резервуара."
+        ""
+        "Чтобы заправить воздух в костюм, подавайте его сверху с помощью &bВращательной силы&r."
+    ]
+    quest.169FF5F7AE73CF51.title: "&aМедный водолазный костюм"
+    quest.16B60BCB8240F808.quest_desc: [
+        "Как только вы закодируете шаблоны через &aТерминал кодирования&r, вы можете поместить их в &aПровайдер шаблонов&r. Он попробует выполнить крафт, используя блок, к которому прикреплён."
+        ""
+        "Для выполнения простых и бесформенных рецептов без машин просто поставьте провайдер рядом с &dМолекулярным сборщиком&r. Эти сборщики — просто улучшенные автокрафтеры!"
+        "{@pagebreak}"
+        "Для других автокрафтов, требующих обработки, поставьте провайдер перед нужной машиной."
+        ""
+        "Например, можно организовать автоплавку, поставив печь перед провайдером и закодировав соответствующие рецепты плавки на шаблоны, которые вы кладёте в провайдеры."
+        "{@pagebreak}"
+        "Для получения дополнительной информации о том, как сделать работу провайдеров и сборщиков быстрее, обратитесь к руководству AE2!"
+    ]
+    quest.16B60BCB8240F808.quest_subtitle: "«Что» и «где» автокрафта"
+    quest.16B60BCB8240F808.title: "&fХранение шаблонов"
+    quest.16C3EFC0741108EE.quest_desc: [
+        "&5Квантовое снаряжение&r — лучшее из возможного. Вы можете летать бесплатно, не получать урона от внешних источников и убивать любого моба одним ударом &5Квантовым мечом&f."
+        ""
+        "&7&oТолько пусть всё падает в один хит, ведь по сути оно сделано из 64 ядерных зарядов."
+    ]
+    quest.16C3EFC0741108EE.title: "&5Квантовое снаряжение"
+    quest.16C668B00B581A9C.quest_desc: [
+        "В мире существует множество видов пчёл, но их можно разделить на две основные категории."
+        ""
+        "Первый тип, с которым вы столкнётесь, называется &aОдиночные пчёлы&r. Обычно они появляются из &2Гнёзд&r, которые можно скрафтить. Эти пчёлы &bНе производят никаких ресурсов&r и могут жить только в подходящих им гнёздах. Используются главным образом для разведения новых видов пчёл!"
+        ""
+        "Примеры одиночных пчёл: Тростниковая, Синяя полосатая, Плотника"
+        "{@pagebreak}"
+        "Второй тип мы просто назовём &aПроизводительными пчелами&r, потому что они действительно создают что-то полезное и предпочитают жить в ваших продвинутых ульях."
+        ""
+        "Эти пчёлы редко встречаются в дикой природе и создаются в основном через &aРазведение пчёл&r или &bПревращение&r. Некоторые виды можно сделать, используя яйца, собранные с помощью крафта!"
+        ""
+        "Примеры производительных пчёл: Железная, Алмазная, Медовая"
+    ]
+    quest.16C668B00B581A9C.title: "&fТипы пчёл"
+    quest.16D89D5036F39756.quest_desc: [
+        "&eMalum&r — это магический мод, сосредоточенный на элементальных и духовных аспектах душ, использующий эти свойства для создания множества арканических эффектов на вас и окружающем мире!"
+        ""
+        "Мод находится в активной разработке, и последним его обновлением стала система договоров, которые игрок может принимать в обмен на способности."
+        ""
+        "Чтобы начать, найдите или создайте &dСкамью душ&r, чтобы изготовить два ключевых блока мода: &aДуховой алтарь&r и &aПолуручную косу&r."
+        ""
+        "Ходят слухи о каком-то &5Структурном&r объекте где-то в пустоте, который издаёт шёпот и притягивает определённые материалы. Может быть, стоит найти его и заключить сделку за что-нибудь..."
+    ]
+    quest.16D89D5036F39756.quest_subtitle: "Начало пути Malum"
+    quest.16D89D5036F39756.title: "&dСкамья душ"
+    quest.16E0A9FD1B08D34E.quest_desc: [
+        "&6Конкурентные процессоры&r — это высококачественные процессоры, рассчитанные на обработку данных на &dКвантовом&r уровне."
+        ""
+        "Для начала вам понадобятся Энтропийные кристаллы, много энергии и &dСингулярность&r."
+    ]
+    quest.16E0A9FD1B08D34E.title: "&fИнскрайбер конкурирующих процессоров"
+    quest.16EAA225AFBF41E6.quest_desc: [
+        "Используя &dУголь эклипса&r, вы можете создать топливо с самой высокой плотностью энергии!"
+        ""
+        "&dТопливо из угля эклипса&r способно производить до 4k FE/t в простом генераторе."
+    ]
+    quest.16EAA225AFBF41E6.title: "&5Топливо из угля эклипса"
+    quest.16F7490FA5DE307C.quest_desc: [
+        "&dУничтожитель мобов&r моментально убивает всех мобов в радиусе действия."
+        ""
+        "Он невероятно полезен для автоматизации против враждебных мобов, так как даёт &aЭссенцию&r, которую можно использовать в &bДубликаторе мобов&r — мощном и настраиваемом спавнере."
+        ""
+        "Он также автоматически собирает все трофеи мобов."
+    ]
+    quest.16F7490FA5DE307C.title: "&aУничтожитель мобов"
+    quest.1706D0B9391ED8E1.quest_desc: [
+        "&6Powah&r на самом деле имеет самые быстрые кабели передачи энергии! Однако, в отличие от кабелей Mekanism, у них нет буфера хранения энергии."
+        ""
+        "Это ваши базовые кабели для передачи энергии между машинами."
+    ]
+    quest.1706D0B9391ED8E1.title: "&fЭнергетические кабели"
+    quest.170CE041C0312188.quest_desc: ["&3Тикеры запасов&r позволяют запрашивать определённый набор отфильтрованных предметов из связанной сети."]
+    quest.170CE041C0312188.title: "&3Тикер запасов"
+    quest.172955F8F798D2D8.quest_desc: ["&dЗаговор защиты&r предотвращает появление мобов в большой области вокруг себя."]
+    quest.172955F8F798D2D8.title: "&dЗаговор защиты"
+    quest.173411DE23DFB758.quest_desc: [
+        "При подаче энергии &dПлазмидный инфьюзер&r вводит &bГелисы ДНК&r в &3Плазмиды&r, добавляя к ним очки ДНК."
+        ""
+        "&aБазовые гены&r стоят 1 очко и не могут быть первыми, введёнными в &3Плазмид&r."
+        ""
+        "Гены своего типа &3Плазмида&r стоят 2 очка."
+    ]
+    quest.173411DE23DFB758.title: "&dИнфьюзер плазмид"
+    quest.1739969280BB4E82.quest_subtitle: "Передаёт сигналы Redstone"
+    quest.1739969280BB4E82.title: "&fКрасный камень"
+    quest.17612A3DF8930377.quest_subtitle: "Это ожерелье немного взрывоопасное"
+    quest.17612A3DF8930377.title: "&bОтражающее ожерелье"
+    quest.176610923FDE130F.quest_desc: ["Использование &bЛегированных пластин кремния&r вместо обычных значительно увеличивает выход из различных рецептов."]
+    quest.176610923FDE130F.title: "&fЛегированные пластины кремния"
+    quest.1770A460E1FD7CC8.quest_desc: [
+        "[\"\", {\"text\": \"Ускорители частиц\", \"color\":\"#FF55FF\"}, \" могут быть построены разными способами, в зависимости от целей. Прямая линия \", {\"text\": \"Линейных моторов\", \"color\":\"#55FF55\"}, \" может стрелять частицами в цель, но более высокие скорости эффективнее достигаются круговым дизайном. Для получения некоторых элементов потребуется очень большая окружность. Медленные частицы требуют, чтобы \", {\"text\": \"Направляющие кольца\", \"color\": \"#55FF55\"}, \" были расположены близко друг к другу, поэтому начинать с маленького кольца и затем \", {\"text\": \"использовать красный камень\", \"color\":\"#55FFFF\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"778A876616D4638E\" } }, \" для перехода к большему кольцу часто имеет смысл.\""
+        ""
+        "В некоторых случаях может понадобиться несколько этапов колец."
+    ]
+    quest.1770A460E1FD7CC8.title: "&fДизайн ускорителей"
+    quest.1771DF7C6EBF1B89.quest_subtitle: "Теперь у поедания Фрукта Хоруса есть цель"
+    quest.1771DF7C6EBF1B89.title: "&dПодавитель Хоруса"
+    quest.17729D2D1F20BF44.quest_desc: [
+        "&aКирка из феррокора&r — это чуть улучшенная версия железной кирки."
+        ""
+        "У неё есть 2 потенциальных улучшения. &aУлучшение «Рудник»&r позволяет добывать всю жилу руды за один раз, а &a«Сканер руды»&r позволяет находить близлежащую руду сквозь стены."
+    ]
+    quest.17729D2D1F20BF44.title: "&fКирка из феррокора"
+    quest.17A73A05FAE4D6F5.quest_desc: [
+        "&bЛегендарная база талисмана&r — это улучшение &dЭпической базы талисмана&r."
+        ""
+        "Она позволяет создавать &bТалисманы силы&r и может быть улучшена до &cУльтимативной базы талисмана&r."
+    ]
+    quest.17A73A05FAE4D6F5.title: "&bЛегендарная база талисмана"
+    quest.17B4FE9A8136B16A.quest_desc: [
+        "&aИнкубатор&r работает как ускоренная версия Стола зельеварения."
+        ""
+        "Он работает вдвое быстрее (без перегрева), но требует FE вместо порошка Блэйза."
+    ]
+    quest.17B4FE9A8136B16A.title: "&aИнкубатор"
+    quest.17C82FAD796695DE.quest_desc: [
+        "Одноразовый бонус для новичков, выбравших путь &nГеолога&r!"
+        ""
+        "&n&4Предупреждение!&r Завершив этот квест, ваша команда будет зафиксирована на Пути Геолога, и другие награды будут недоступны."
+    ]
+    quest.17C82FAD796695DE.title: "&fОблегчение стресса"
+    quest.17CD9810D724547E.quest_desc: [
+        "Вы можете смешать &4Слиток хрома&r и &cСоляную кислоту&r в &3Химическом реакторе&r, чтобы получить &bСоляной раствор хрома&r."
+        ""
+        "После этого его нужно &3Электролизовать&r, чтобы получить &cМелкие кучки хрома&r, а также частично восстановить &bВодород&r и &eХлор&r из исходной смеси."
+    ]
+    quest.17CD9810D724547E.title: "&cПыль хрома"
+    quest.17EBE81C391DE37E.quest_desc: ["&aХранилище чипов&r используется для хранения &aЧипов памяти&r, делая их доступными в сети."]
+    quest.17EBE81C391DE37E.title: "&fХранилище чипов"
+    quest.1811EC8E48EAD1BD.quest_desc: [
+        "&7Талисман крипера&r даёт игроку возможность выполнить взрывной прыжок, не повреждающий блоки (этот эффект может наносить критический урон мобам)."
+        ""
+        "Он также используется для создания &bСилы Отторжения&r."
+    ]
+    quest.1811EC8E48EAD1BD.title: "&7Талисман крипера"
+    quest.1820069FEA2237E6.quest_desc: [
+        "Если бросить &aБлок кварца&r в лазер, вы получите &2Этический кварц&r, а если бросить &bВырезанный блок кварца&r — его зелёную версию."
+        ""
+        "Для создания &aПодставки для демонстрации&r вам понадобится по 3 штуки каждого."
+    ]
+    quest.1820069FEA2237E6.title: "&aЭтический кварц"
+    quest.1841C1DAEC960312.quest_desc: [
+        "Все уровни &bДухов-плавильщиков&r вызываются для выполнения задач печи, дробилки, коптильни и костра, без использования топлива."
+        ""
+        "Они сами забирают нужные предметы, плавят их и кладут обратно в мир."
+        ""
+        "Эффект частиц огня и звук горения показывают, что &bПлавильщик&r работает."
+        ""
+        "Для автоматизации призовите &7Транспортировщика Foliot&r, чтобы он подавал предметы из сундука в &bПлавильщик&r, и &7Уборщика Foliot&r для сбора готовых предметов."
+    ]
+    quest.1841C1DAEC960312.title: "&7Foliot &fПлавильщик"
+    quest.186BE7F6DFA8C41E.quest_desc: [
+        "&3Чёрный порох&r превращает зелья в &aЗелья-броски&r."
+        ""
+        "Вместо того, чтобы пить их, можно просто бросить, чтобы получить эффект в радиусе действия."
+    ]
+    quest.186BE7F6DFA8C41E.title: "&7Чёрный порох"
 	quest.18913114C6D06E74.quest_desc: [
 		"С модом &aEasy Villagers&r вы можете буквально подбирать жителей, зажав Shift и кликнув правой кнопкой мыши. Это делает создание фермы жителей невероятно простым!"
 		""
@@ -2578,185 +2578,185 @@
 		"Мод также предлагает одноблочные решения для ферм культур, големов железа и многого другого! Поддерживается даже бартер с пиглинами!"
 	]
 	quest.18913114C6D06E74.title: "&aEasy Villagers"
-	quest.189DE52ADD270985.quest_desc: [
-		"Lenses are placed on an &eAtomic Reconstructor&r to change its functionality."
-		""
-		"The basic &aLens&r is only used as a crafting material for other lenses."
-	]
-	quest.189DE52ADD270985.title: "&aLens"
-	quest.18AD721D008B8FFE.quest_desc: [
-		"&aIO Interfaces&r have a different UI for you to interact with!"
-		""
-		"{image:ftb:textures/quests/integrated_dynamics/interfaces/properties_interface.png width:165 height:140 align:center}"
-		"{@pagebreak}"
-		"At the top left, there are 2 buttons which are for &bPart Settings&r and &bOffset Settings&r."
-		""
-		"In the main UI, there is a search bar at the top and a scroll bar on the right so you can find the exact aspect you'd like to access."
-		""
-		"In the middle, you will find your main layout with all of the colored aspects and properties."
-		""
-		"The empty slot on the right side of each property is for placing in a &aVariable Card&r to determine exactly what you want the IO port to do."
-		"{@pagebreak}"
-		"Within the main interface, you will find a little + box next to aspects. These have a wide variety of properties that can be changed to allow for even more refined systems."
-		""
-		"Due to the sheer amount of different properties, it is best to refer to the &6I.D&r guidebook for more specific properties."
-		"{@pagebreak}"
-		"{image:ftb:textures/quests/integrated_dynamics/interfaces/info_interface.png width:150 height:150 align:center}"
-		""
-		"Holding Shift on an aspect will give you a brief description of what it does and what &bVariable Types&r it requires to function."
-	]
-	quest.18AD721D008B8FFE.title: "&fUnderstanding IO Interfaces"
-	quest.18C8FF073435FB10.quest_desc: [
-		"By having access to the &dAmadron Tablet&r, you can buy a &aPCB Blueprint&r and make yourself your first &bUV Light Box&r!"
-		""
-		"This is is needed to expose &bEmpty PCB's&r to &bUV Light&r, which is an important process for assembling PCBs."
-		""
-		"You can make Empty PCBs in the &dPressure Chamber&r."
-	]
-	quest.18C8FF073435FB10.quest_subtitle: "A UV Light Box"
-	quest.18C8FF073435FB10.title: "&fMaking Circuit Boards!"
-	quest.18CD33B0D1C0D3E6.quest_desc: [
-		"The &aCrop Support&r will work to increase the growth speed of any trees or crops that are planted on it."
-		""
-		"These are pretty cheap and require no upkeep to use, making them really useful for farming!"
-	]
-	quest.18CD33B0D1C0D3E6.title: "&fFaster Farming!"
-	quest.18D208281439A865.quest_desc: [
-		"&aSatchels&r allow your &bBrooms&r to store extra items. Bigger &aSatchels&r "
-		""
-		"The &cEnder Satchel&r allows you to open your inventory while riding the &bBroom&r."
-		""
-		"The &aReplacer Satchel&r automatically swaps out &bBrushes&r inside it when an equipped &bBrush&r runs out of durability."
-	]
-	quest.18D208281439A865.title: "&aSatchels"
-	quest.18E870A4E5F4CE4F.title: "&fMace Blueprint"
-	quest.1902A402B951AAF6.title: "&bSpellbreaker"
-	quest.190616DB4087BDE9.quest_desc: [
-		"When powered, the &2DNA Extractor&r processses &aCells&r into unknown &bDNA Helices&r."
-		""
-		"When using a &dGenetically Modified Cell&r instead of a regular &aCell&r, it will reveal a stronger &bDNA Helix&r genetic for that specific mob."
-	]
-	quest.190616DB4087BDE9.title: "&2DNA Extractor"
-	quest.19512B784164186D.title: "&fLead Chunk"
-	quest.1953C2127633B6D7.quest_desc: [
-		"The &dWireless Universal Terminal&r allows you to make use of the several different types of Wireless Terminals."
-		""
-		"This can be crafted by combining your Wireless Crafting Grid with another Wireless Terminal, like the &aWireless Pattern Access Terminal&r."
-	]
-	quest.1953C2127633B6D7.title: "&fThe &dUniversal Wireless Terminal"
-	quest.1962F37154380EBF.quest_desc: [
-		"The &aFermenter&r is a &bHeavy Machine&r used to extract &aEthanol&r from fruits, grains, and vegetables."
-		""
-		"Make sure to check out the &bEngineer's Manual&r to help you build the multiblock!"
-	]
-	quest.1962F37154380EBF.title: "&fFermenter"
-	quest.197CF94F783E59DF.quest_desc: [
-		"The &aSpeed Upgrade&r is the general \"I want this to go faster\" upgrade. It provides a 20% increase to the speed of the hive or machine it is placed in. You can also place in multiple in one machine!"
-		""
-		"These can also be placed in more than just Beehives. Try it in your Centrifuges, Breeding Chambers, and more!"
-	]
-	quest.197CF94F783E59DF.quest_subtitle: "Gotta Go Fast"
-	quest.197CF94F783E59DF.title: "&eUpgrade: &fSpeed"
-	quest.1980C42D8CDBE51C.quest_desc: [
-		"The &dPowered Spawner&r is a powered version of the vanilla mob spawner."
-		""
-		"The mob is spawns is based on the &7Broken Spawner&r used to craft it, which can be acquired by breaking a vanilla Minecraft Spawner."
-		""
-		"A &aBroken Spawner&r will retain the mob type of the original spawner, but can also be changed by combining it with a &3Filled Soul Vial&r of the desired mob type in a &aSoul Binder&r."
-		"{@pagebreak}"
-		"When powered, it will spawn mobs up to 4 blocks away from the machine."
-		""
-		"Just like most powered machines, it can be upgraded by installing higher tier &bCapacitors&r."
-		""
-		"&eNote&r: The recipe for this can be found in JEI by hitting &eU&r on a &7Broken Spawner&r in your inventory."
-	]
-	quest.1980C42D8CDBE51C.title: "&fPowered Spawner"
-	quest.19874DF48B8B2A75.quest_desc: [
-		"Combining &dAtomic Alloys&r with &9Elite Control Circuits&r can upgrade them to &6Ultimate Control Circuits&r."
-		""
-		"These are used to craft the highest tier pipes, factories, and the most advanced machinery."
-	]
-	quest.19874DF48B8B2A75.title: "&dUltimate Control Circuit"
-	quest.19BA687C317C19B7.title: "&fTome of Chestplates"
-	quest.19BD1DF4EFF584A6.quest_desc: [
-		"When using a &cBlazegold Hoe&r to till dirt, you'll create &cBlazebloom Soil&r."
-		""
-		"This soil is faster than the previous tier soil, but also &bautoharvests&r fully grown crops by itself."
-		""
-		"When this happens, the items will only stay in the world for about 2 seconds! Make sure to collect them using an &aItem Collector&r."
-	]
-	quest.19BD1DF4EFF584A6.title: "&cBlazegold Hoe"
-	quest.19EC021D1722EFC1.quest_desc: [
-		"The &dFired Talisman&r increases damage by 25% while the player is on fire."
-		""
-		"It is also used to craft the &bForce of Negative&r."
-	]
-	quest.19EC021D1722EFC1.title: "&dFired Talisman"
-	quest.19EE1C45669E7132.quest_desc: ["The &7Pickaxe Talisman&r doubles mining speed."]
-	quest.19EE1C45669E7132.title: "&7Pickaxe Talisman"
-	quest.19FB0270DFB28E04.quest_desc: [
-		"The &dWitch Talisman&r makes witches throw potions with positive effects at the player."
-		""
-		"It is also used to craft the &bForce of Mystic&r."
-	]
-	quest.19FB0270DFB28E04.title: "&dWitch Talisman"
-	quest.1A1161EF6276767F.quest_desc: [
-		"&eModular Force Field System&r (&eMFFS&r for short) is a tech mod that adds force fields and other defensive measures to protect your base."
-		""
-		"To get started, craft some &aFocus Matrices&r which are used to craft most machines in &eMFFS&r."
-		""
-		"Get ready to use a lot of &aSteel&r."
-		""
-		"&7&oMFFS machines require a redstone signal to run by default, most of which can be inverted in the upper left corner of the interface."
-	]
-	quest.1A1161EF6276767F.quest_subtitle: "&oSteel The Deal"
-	quest.1A1161EF6276767F.title: "&fWelcome to &eMFFS"
-	quest.1A183C6EA50C9ADF.quest_desc: [
-		"&bQuality Multiplier&r: x1.0"
-		""
-		"&bBase Effect&r: Speed"
-		""
-		"&bPositive Effect&r: Speed"
-		""
-		"&bImmunity Effect&r: Bad Omen"
-		""
-		"&bAction Effect&r: Create Wind Burst Explosion"
-	]
-	quest.1A183C6EA50C9ADF.title: "&3Silver Banding"
-	quest.1A285EBFFDBAE30A.quest_desc: [
-		"You will encounter lots of different plants and trees through your journey, all which are exclusive to specific biomes and climates."
-		""
-		"Breaking these plants will drop the plant as an item, and using shears will pick them up normally."
-		""
-		"Later on, you'll also be able to right-click the herbs with a &aBoline&r to drop the plant item and cut the herb simultaneously."
-	]
-	quest.1A285EBFFDBAE30A.title: "&fPlants \\&\\ Herbs"
-	quest.1A3C52B662D8237B.quest_desc: ["With the power of &9Blue Chalk&r, you are capable of drawing &6Fatma's Incentivized Attraction&r to summon and bind &6Marids&r to your will."]
-	quest.1A3C52B662D8237B.quest_subtitle: "Summoning Pentacle: Tier 6"
-	quest.1A3C52B662D8237B.title: "&6Fatma's Incentivized Attraction"
-	quest.1A43F480970FEBBB.quest_desc: [
-		"The &dEclipse Alloy Hoe&r can create the ultimate tier of farmland: &5Shadowpulse Soil&r."
-		""
-		"This farmland is faster than all previous tiers, as well as retaining all previous abilities like autoharvesting."
-	]
-	quest.1A43F480970FEBBB.title: "&5Eclipse Alloy Hoe"
-	quest.1A4F6C1AC9BD2F42.quest_desc: ["You can make &cRedstone Bees&r by breeding &aGlowing Bees&r with &aChocolate Mining Bees&r."]
-	quest.1A4F6C1AC9BD2F42.title: "&cRedstone Bees"
-	quest.1A648F49F72639CC.quest_desc: [
-		"The &dStarlight Charger&r uses the power of the &5Night&r to enchant materials with the &dStar Charged&r enchantment. This enchant grants a huge buff to the stats of the material."
-		""
-		"To use this, you'll need to build out &a4 Pillars&r around the Starlight Charger to get it to work, as well as using a &dCharger Catalyst&r for each material you want to enchant."
-		"{@pagebreak}"
-		"The &bPillars&r of the Charger are built in the corners of a 7x7 square area centered around the Starlight Charger."
-		""
-		"They are 3 blocks tall, with the top block requiring a specific &6Pillar Cap&r. The other 2 blocks can be anything you'd like!"
-		""
-		"The Pillar Cap blocks determine the tier of the Charger, which determines which Catalyst you can use."
-		""
-		"- &cCrimson Steel Block&r | &cTier 1&r"
-		"- &dAzure Electrum Block&r | &dTier 2&r"
-		"- &6Tyrian Steel Block&r | &6Tier 3&r"
-	]
+    quest.189DE52ADD270985.quest_desc: [
+        "Линзы устанавливаются на &eАтомный реконструктор&r, чтобы изменить его функции."
+        ""
+        "Обычная &aЛинза&r используется только как материал для создания других линз."
+    ]
+    quest.189DE52ADD270985.title: "&aЛинза"
+    quest.18AD721D008B8FFE.quest_desc: [
+        "&aИнтерфейсы ввода/вывода&r имеют особую структуру интерфейса, с которой можно взаимодействовать!"
+        ""
+        "{image:ftb:textures/quests/integrated_dynamics/interfaces/properties_interface.png width:165 height:140 align:center}"
+        "{@pagebreak}"
+        "В верхнем левом углу находятся 2 кнопки — они отвечают за &bНастройки части&r и &bСмещение&r."
+        ""
+        "В основном меню есть строка поиска сверху и ползунок справа, чтобы найти нужный параметр."
+        ""
+        "Посередине вы найдёте основной макет со всеми цветными аспектами и свойствами."
+        ""
+        "Пустой слот справа от каждого свойства — это место для &aКарты переменной&r, чтобы указать, что именно должен делать порт ввода/вывода."
+        "{@pagebreak}"
+        "В основном интерфейсе рядом с аспектами есть маленькие кнопки с плюсом. Они открывают широкий диапазон настроек, позволяя строить более тонкие системы."
+        ""
+        "Из-за огромного количества возможных свойств лучше всего обратиться к руководству &6I.D&r за дополнительной информацией."
+        "{@pagebreak}"
+        "{image:ftb:textures/quests/integrated_dynamics/interfaces/info_interface.png width:150 height:150 align:center}"
+        ""
+        "Зажав Shift на аспекте, вы получите краткое описание его действия и тип &bПеременной&r, которую он принимает."
+    ]
+    quest.18AD721D008B8FFE.title: "&fПонимание IO интерфейсов"
+    quest.18C8FF073435FB10.quest_desc: [
+        "Если у вас есть &dAmadron Планшет&r, вы можете купить &aЧертёж платы&r и сделать свою первую &bUV-лампу&r!"
+        ""
+        "Она требуется для обработки &bПустых плат&r под воздействием &bУльтрафиолета&r — важная часть процесса сборки электроники."
+        ""
+        "Пустые платы создаются в &dКамере давления&r."
+    ]
+    quest.18C8FF073435FB10.quest_subtitle: "UV-лампа"
+    quest.18C8FF073435FB10.title: "&fСоздание плат!"
+    quest.18CD33B0D1C0D3E6.quest_desc: [
+        "&aПодставка для растений&r увеличивает скорость роста деревьев и культур, если они посажены на неё."
+        ""
+        "Эти блоки дешёвые и не требуют обслуживания, что делает их отличным выбором для автоматизации фермы!"
+    ]
+    quest.18CD33B0D1C0D3E6.title: "&fБыстрее расти!"
+    quest.18D208281439A865.quest_desc: [
+        "&aМешки&r позволяют вашим &bМетлам&r хранить дополнительные предметы. Чем больше &aМешок&r — тем больше вместимость."
+        ""
+        "&cЭндер-мешок&r позволяет открывать инвентарь, пока вы на &bМетле&r."
+        ""
+        "&aМешок замены&r автоматически меняет &bЩётки&r внутри себя, когда текущая щётка теряет прочность."
+    ]
+    quest.18D208281439A865.title: "&aМешки"
+    quest.18E870A4E5F4CE4F.title: "&fЧертёж булавы"
+    quest.1902A402B951AAF6.title: "&bРазрушитель заклинаний"
+    quest.190616DB4087BDE9.quest_desc: [
+        "При питании &2Экстрактор ДНК&r перерабатывает &aКлетки&r в неизвестные &bГелисы ДНК&r."
+        ""
+        "Если использовать &dГенетически модифицированную клетку&r вместо обычной &aКлетки&r, вы получите более сильную &bГелису ДНК&r конкретного моба."
+    ]
+    quest.190616DB4087BDE9.title: "&2Экстрактор ДНК"
+    quest.19512B784164186D.title: "&fСвинцовый кусок"
+    quest.1953C2127633B6D7.quest_desc: [
+        "&dБеспроводной универсальный терминал&r позволяет использовать разные типы беспроводных терминалов в одной системе."
+        ""
+        "Вы можете создать его, объединив &aБеспроводную сетку&r с другим беспроводным терминалом, например, с &aБеспроводным терминалом шаблонов&r."
+    ]
+    quest.1953C2127633B6D7.title: "&f&dУниверсальный беспроводной терминал"
+    quest.1962F37154380EBF.quest_desc: [
+        "&aФерментёр&r — это &bТяжёлая машина&r, которая извлекает &aЭтиловый спирт&r из фруктов, злаков и овощей."
+        ""
+        "Не забудьте проверить &bИнженерное руководство&r, чтобы понять, как собрать мультиблок!"
+    ]
+    quest.1962F37154380EBF.title: "&fФерментёр"
+    quest.197CF94F783E59DF.quest_desc: [
+        "&aОбновка скорости&r — это стандартное «Хочу быстрее!» улучшение. Оно даёт +20% к скорости работы улья или машины. Вы можете установить несколько таких обновок в одну машину!"
+        ""
+        "Использоваться она может не только в ульях. Попробуйте в Центрифугах, Камерах размножения и других устройствах!"
+    ]
+    quest.197CF94F783E59DF.quest_subtitle: "Давайте ускоримся!"
+    quest.197CF94F783E59DF.title: "&eОбновка: &fСкорость"
+    quest.1980C42D8CDBE51C.quest_desc: [
+        "&dЭлектрический спавнер&r — это продвинутая версия стандартного спавнера мобов."
+        ""
+        "Тип моба, которого он будет призывать, зависит от &7Сломанного спавнера&r, который можно получить, разбив оригинальный Spawner."
+        ""
+        "&aСломанный спавнер&r сохранит тип моба, но его можно изменить, комбинируя с &3Заряженным сосудом душ&r нужного типа в &aСвязующей душе&r."
+        "{@pagebreak}"
+        "При подаче энергии он будет генерировать мобов на расстоянии до 4 блоков от себя."
+        ""
+        "Как и большинство энергоёмких машин, его можно улучшать, добавляя &bКонденсаторы&r более высокого уровня."
+        ""
+        "&eПримечание&r: Рецепт этой машины можно найти в JEI, нажав &eU&r на &7Сломанном спавнере&r в вашем инвентаре."
+    ]
+    quest.1980C42D8CDBE51C.title: "&fЭлектроспавнер"
+    quest.19874DF48B8B2A75.quest_desc: [
+        "Соединяя &dАтомные сплавы&r с &9Элитными схемами управления&r, вы сможете создавать &6Ультимативные схемы управления&r."
+        ""
+        "Их используют для самых мощных труб, фабрик и продвинутых машин."
+    ]
+    quest.19874DF48B8B2A75.title: "&dУльтимативная схема управления"
+    quest.19BA687C317C19B7.title: "&fФолиант нагрудников"
+    quest.19BD1DF4EFF584A6.quest_desc: [
+        "Используя &cХрустальную мотыгу&r для вспашки земли, вы создаёте &cПочву Блэйза&r."
+        ""
+        "Эта почва работает быстрее предыдущих вариантов и &bАвтособирает&r полностью выросшие культуры сама."
+        ""
+        "При этом предметы будут оставаться в мире всего около 2 секунд! Не забудьте собрать их с помощью &aКоллектора предметов&r."
+    ]
+    quest.19BD1DF4EFF584A6.title: "&cХрустальная мотыга"
+    quest.19EC021D1722EFC1.quest_desc: [
+        "&dТалисман огня&r увеличивает урон на 25%, если игрок горит."
+        ""
+        "Также он используется для создания &bСилы Негатива&r."
+    ]
+    quest.19EC021D1722EFC1.title: "&dТалисман огня"
+    quest.19EE1C45669E7132.quest_desc: ["&7Талисман кирки&r удваивает скорость добычи."]
+    quest.19EE1C45669E7132.title: "&7Талисман кирки"
+    quest.19FB0270DFB28E04.quest_desc: [
+        "&dТалисман ведьмы&r заставляет ведьм бросать зелья с положительным эффектом в сторону игрока."
+        ""
+        "Также он используется для создания &bСилы Мистика&r."
+    ]
+    quest.19FB0270DFB28E04.title: "&dТалисман ведьмы"
+    quest.1A1161EF6276767F.quest_desc: [
+        "&eModular Force Field System&r (&eMFFS&r) — технологический мод, добавляющий силовые поля и другие защитные элементы для вашей базы."
+        ""
+        "Для начала сделайте &aМатрицы фокусировки&r — они нужны для большинства рецептов &eMFFS&r."
+        ""
+        "Готовьтесь к использованию множества &aСтального сплава&r."
+        ""
+        "&7&oПо умолчанию MFFS-машины требуют сигнала красного камня, но большинство из них имеет возможность инвертировать сигнал через верхний левый угол интерфейса."
+    ]
+    quest.1A1161EF6276767F.quest_subtitle: "&oСталь решает всё"
+    quest.1A1161EF6276767F.title: "&fДобро пожаловать в &eMFFS"
+    quest.1A183C6EA50C9ADF.quest_desc: [
+        "&bМножитель качества&r: x1.0"
+        ""
+        "&bБазовый эффект&r: Скорость"
+        ""
+        "&bПоложительный эффект&r: Скорость"
+        ""
+        "&bЭффект иммунитета&r: Знак беды"
+        ""
+        "&bДействующий эффект&r: Создаёт взрыв в виде порции ветра"
+    ]
+    quest.1A183C6EA50C9ADF.title: "&3Серебряная обвязка"
+    quest.1A285EBFFDBAE30A.quest_desc: [
+        "На своём пути вы встретите множество разных растений и деревьев, каждое из которых существует только в определённых биомах и климатах."
+        ""
+        "Разрушая эти растения, вы получаете их в виде предметов, а при использовании ножниц — собираете корректно."
+        ""
+        "Позже вы сможете использовать &aНож Boline'rа&r на травах, чтобы одновременно собрать растение и вырезать её часть."
+    ]
+    quest.1A285EBFFDBAE30A.title: "&fРастения \\&\\ Травы"
+    quest.1A3C52B662D8237B.quest_desc: ["С помощью &9Синего мелка&r вы можете начертить &6Привязку Фатмы&r и призвать &6Marid'а&r под свой контроль."]
+    quest.1A3C52B662D8237B.quest_subtitle: "Пентаграмма призыва: Уровень 6"
+    quest.1A3C52B662D8237B.title: "&6Привязка Фатмы"
+    quest.1A43F480970FEBBB.quest_desc: [
+        "&dХрустальная мотыга&r создаёт финальный уровень обработанной земли — &5Почву Тени&r."
+        ""
+        "Этот тип земли быстрее всех предыдущих уровней и сохраняет все предыдущие способности, такие как автосбор урожая."
+    ]
+    quest.1A43F480970FEBBB.title: "&5Хрустальная мотыга"
+    quest.1A4F6C1AC9BD2F42.quest_desc: ["Вы можете получить &cПчёл из редстоуна&r, скрестив &aСветящиеся пчёлы&r и &aШоколадных пчёл&r."]
+    quest.1A4F6C1AC9BD2F42.title: "&cПчёлы из редстоуна"
+    quest.1A648F49F72639CC.quest_desc: [
+        "&dЗарядник звёздного света&r использует силу &5Ночи&r, чтобы зачаровать материалы &dЗарядом звезды&r. Это даёт им серьёзный бонус к характеристикам."
+        ""
+        "Для использования вам нужно построить &a4 Пилона&r вокруг зарядника, чтобы активировать его, а также использовать &dКатализатор зарядки&r для каждого материала, который хотите обработать."
+        "{@pagebreak}"
+        "&bПилоны&r для зарядки строятся по углам квадрата 7x7, центр которого находится на &dЗаряднике звёздного света&r."
+        ""
+        "Они должны быть высотой в 3 блока, где верхний блок — это специальная &6Крышка пилона&r. Остальные два могут быть любыми."
+        ""
+        "Крышки пилонов определяют уровень зарядника, а значит, и какие &dКатализаторы&r вы можете использовать."
+        ""
+        "- &cБлок алого стали|r | &cУровень 1|r"
+        "- &dБлок азурного электрума|r | &dУровень 2|r"
+        "- &6Блок тирьяновой стали|r | &6Уровень 3|r"
+    ]
 	quest.1A648F49F72639CC.title: "&fThe Power of the &dStars"
 	quest.1A6922D9DCAB13A7.quest_desc: ["Improves operation speed and energy efficiency."]
 	quest.1A6922D9DCAB13A7.title: "&fSynergy Matrix Addon"
